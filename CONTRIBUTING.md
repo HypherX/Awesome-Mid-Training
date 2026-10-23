@@ -14,10 +14,8 @@ Thanks for helping keep **Awesome Mid-Training for LLMs** up to date.
 **Exclude** (add to `rejected.md` with a one-line reason instead):
 
 - Non-LLM “mid-training” (CV, VLA/robotics, audio-only, tabular-only, etc.)
-- Pure SFT / preference tuning / online RL with no mid component
+- Pure SFT / preference tuning / online RL with no mid component (incl. FireAct/AgentTuning-scale agent SFT, env-RL warmups named “mid”)
 - Generic LLM papers that only mention pretraining or post-training
-
-**Boundary** works (FireAct-scale agent SFT, env-RL warmups named “mid”, etc.) go in category `9_boundary`, not main sections.
 
 ## How to add a paper
 
@@ -34,13 +32,13 @@ Thanks for helping keep **Awesome Mid-Training for LLMs** up to date.
   "url": "https://arxiv.org/abs/2610.xxxxx",
   "code_url": null,
   "venue": "arXiv",
-  "category": "2.8_agent",
+  "category": "capability/agent",
   "tags": ["agent", "synthetic", "mid-training"],
   "note": "One-line contribution note."
 }
 ```
 
-3. Choose **one** primary `category` (see README taxonomy). Put capability / data / optimization facets in `tags`.
+3. Choose **one** primary `category` (see table below). Put cross-cutting facets in `tags`.
 4. Add the id to `seen_arxiv_ids.txt` (also add reviewed-but-rejected ids there).
 5. Regenerate the README:
 
@@ -54,16 +52,19 @@ python scripts/build_readme.py
 
 | Key | Section |
 |-----|---------|
-| `0_surveys` | Surveys & Position papers |
-| `1_theory` | Definition, Theory & Analysis |
-| `2.1_general` … `2.9_multimodal` | By Target Capability |
-| `3_data` | By Data |
-| `4_optimization` | By Optimization |
-| `5_bridge` | Bridge to Post-training |
-| `6_industrial` | Industrial Technical Reports |
-| `7_datasets` | Datasets & Open Recipes |
-| `8_benchmarks` | Benchmarks / evaluation |
-| `9_boundary` | Related / Boundary |
+| `surveys` | 0. Surveys & Position papers |
+| `theory-analysis` | 1. Definition, Theory & Analysis |
+| `capability/general` | 2.1 General Quality / Knowledge Annealing |
+| `capability/math` | 2.2 Math & STEM |
+| `capability/code` | 2.3 Code (incl. Repo-level / SWE) |
+| `capability/reasoning` | 2.4 Reasoning & CoT (Mid for RL) |
+| `capability/long-context` | 2.5 Long-Context |
+| `capability/multilingual` | 2.6 Multilingual |
+| `capability/instruction-alignment` | 2.7 Instruction & Alignment Mid-Training |
+| `capability/agent` | 2.8 Agent & Tool Use |
+| `capability/multimodal` | 2.9 Multimodal (LLM / VLM Mid-Training) |
+
+Industrial tech reports, datasets/recipes, and methodological data/optimization papers should be filed under the **capability** they mainly advance, or under `theory-analysis` if they analyze mid-training dynamics/schedules/bridging without a clear capability target.
 
 ## Maintainer notes
 

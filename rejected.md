@@ -55,3 +55,19 @@ Papers considered during curation but **not** included in the awesome list (even
 | [2306.11903](https://arxiv.org/abs/2306.11903) | Deep Fusion: Efficient Network Training via Pre-trained Initializations | Deep Fusion network training init — not LLM mid-training |
 | [2306.01685](https://arxiv.org/abs/2306.01685) | MKOR: Momentum-Enabled Kronecker-Factor-Based Optimizer Using Rank-1 Updates | Optimizer paper (MKOR), not mid-training |
 | [2302.03106](https://arxiv.org/abs/2302.03106) | Efficient and Flexible Topic Modeling using Pretrained Embeddings and Bag of Sentences | Topic modeling with pretrained embeddings — not LLM mid-training |
+
+## Moved from former §9 Related / Boundary (capability-only restructure)
+
+Excluded because they do not meet the mid-training definition (env-RL warmups, FireAct/AgentTuning-scale SFT, Toolformer-era SFT, etc.).
+
+| arXiv | Title | Reason |
+|-------|-------|--------|
+| [2608.04934](https://arxiv.org/abs/2608.04934) | State2State: Environment-Derived Mid-Training for LLM Agents | BOUNDARY→rejected: self-named mid-training but GRPO env-RL warmup, not NTP mid |
+| [2607.21461](https://arxiv.org/abs/2607.21461) | AREX: Towards a Recursively Self-Improving Agent for Deep Research | BOUNDARY→rejected: recursive deep-research agent system; mid-training unclear / not CPT |
+| [2510.07737](https://arxiv.org/abs/2510.07737) | ToolExpander: Extending the Frontiers of Tool-Using Reinforcement Learning to Weak LLMs | BOUNDARY→rejected: tool-using RL post-training, not mid-training |
+| [2504.10127](https://arxiv.org/abs/2504.10127) | Breaking the Data Barrier -- Building GUI Agents Through Task Generalization | BOUNDARY→rejected: GUI agent task generalization; SFT-heavy, not mid |
+| [2406.04151](https://arxiv.org/abs/2406.04151) | AgentGym: Evolving Large Language Model-based Agents across Diverse Environments | BOUNDARY→rejected: AgentGym trajectories mainly post-training data source |
+| [2403.12881](https://arxiv.org/abs/2403.12881) | Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models | BOUNDARY→rejected: Agent-FLAN agent tuning at SFT scale |
+| [2310.12823](https://arxiv.org/abs/2310.12823) | AgentTuning: Enabling Generalized Agent Abilities for LLMs | BOUNDARY→rejected: AgentTuning early agent SFT, not mid-training |
+| [2310.05915](https://arxiv.org/abs/2310.05915) | FireAct: Toward Language Agent Fine-tuning | BOUNDARY→rejected: FireAct agent trajectory fine-tuning (SFT-scale) |
+| [2302.04761](https://arxiv.org/abs/2302.04761) | Toolformer: Language Models Can Teach Themselves to Use Tools | BOUNDARY→rejected: Toolformer early self-supervised tool SFT-era precursor, not mid |

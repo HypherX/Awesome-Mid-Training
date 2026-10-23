@@ -1,104 +1,5 @@
 [
   {
-    "title": "AQL-Lite: Enabling Efficient Knowledge Acquisition for Arabic LLMs via Data-Centric Continual Pretraining",
-    "authors": "Boukhalfa et al.",
-    "year": 2026,
-    "month": 10,
-    "arxiv_id": "2610.30344",
-    "url": "https://arxiv.org/abs/2610.30344",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.6_multilingual",
-    "tags": [
-      "Arabic",
-      "continual-pretraining",
-      "data-centric"
-    ],
-    "note": "AQL-Lite: data-centric continual pretraining for Arabic LLMs."
-  },
-  {
-    "title": "Apertus 1.5: From Open Text Models to Open Multimodal Reasoners",
-    "authors": "Apertus et al.",
-    "year": 2026,
-    "month": 10,
-    "arxiv_id": "2610.15542",
-    "url": "https://arxiv.org/abs/2610.15542",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.9_multimodal",
-    "tags": [
-      "multimodal",
-      "open",
-      "reasoning"
-    ],
-    "note": "Apertus 1.5: from open text models to open multimodal reasoners."
-  },
-  {
-    "title": "Data Schedules and Learning Rate Schedules Should Be Designed Together",
-    "authors": "Wen et al.",
-    "year": 2026,
-    "month": 10,
-    "arxiv_id": "2610.29348",
-    "url": "https://arxiv.org/abs/2610.29348",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "1_theory",
-    "tags": [
-      "data-schedule",
-      "LR-schedule"
-    ],
-    "note": "Argues data schedules and LR schedules should be designed together."
-  },
-  {
-    "title": "Don't Stop Long-Context Continual Pre-Training Too Early: An Empirical Scaling Law",
-    "authors": "Qiao et al.",
-    "year": 2026,
-    "month": 10,
-    "arxiv_id": "2610.29352",
-    "url": "https://arxiv.org/abs/2610.29352",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.5_longctx",
-    "tags": [
-      "long-context",
-      "continual-pretraining",
-      "scaling"
-    ],
-    "note": "Don't stop long-context CPT too early: empirical scaling law."
-  },
-  {
-    "title": "Fisher-Guided Submodular Data Selection for Continual Pre-Training of Large Language Models",
-    "authors": "Zhao et al.",
-    "year": 2026,
-    "month": 10,
-    "arxiv_id": "2610.02593",
-    "url": "https://arxiv.org/abs/2610.02593",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "3_data",
-    "tags": [
-      "data-selection",
-      "continual-pretraining"
-    ],
-    "note": "Fisher-guided submodular data selection for CPT of LLMs."
-  },
-  {
-    "title": "History Replays Itself: Unleashing Long-Context Capability in Linear Attention",
-    "authors": "Nanbo et al.",
-    "year": 2026,
-    "month": 10,
-    "arxiv_id": "2610.15715",
-    "url": "https://arxiv.org/abs/2610.15715",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.5_longctx",
-    "tags": [
-      "long-context",
-      "linear-attention"
-    ],
-    "note": "History Replays Itself: unleashing long-context in linear attention."
-  },
-  {
     "title": "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems",
     "authors": "Yang et al.",
     "year": 2026,
@@ -107,81 +8,13 @@
     "url": "https://arxiv.org/abs/2610.30949",
     "code_url": null,
     "venue": "arXiv",
-    "category": "2.8_agent",
+    "category": "capability/agent",
     "tags": [
       "agent",
       "CLI",
       "industrial"
     ],
     "note": "IQuest-Q1: foundation capabilities for agentic CLI systems (mid-style priming)."
-  },
-  {
-    "title": "In-Place Indic Tokenizer Expansion and Continual Pretraining of Nemotron-3-Nano-30B-A3B",
-    "authors": "Benki et al.",
-    "year": 2026,
-    "month": 10,
-    "arxiv_id": "2610.15373",
-    "url": "https://arxiv.org/abs/2610.15373",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.6_multilingual",
-    "tags": [
-      "Indic",
-      "tokenizer",
-      "continual-pretraining"
-    ],
-    "note": "In-place Indic tokenizer expansion + CPT of Nemotron-3-Nano."
-  },
-  {
-    "title": "Inherited, Not Invented: Tracing the Provenance of Wait in Reasoning Models",
-    "authors": "Kou et al.",
-    "year": 2026,
-    "month": 10,
-    "arxiv_id": "2610.30882",
-    "url": "https://arxiv.org/abs/2610.30882",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.4_reasoning",
-    "tags": [
-      "reasoning",
-      "provenance",
-      "wait"
-    ],
-    "note": "Inherited, Not Invented: tracing provenance of Wait in reasoning models (mid/RL interplay)."
-  },
-  {
-    "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement",
-    "authors": "Xiaomi LLM-Core Team",
-    "year": 2026,
-    "month": 10,
-    "arxiv_id": "2610.11959",
-    "url": "https://arxiv.org/abs/2610.11959",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "6_industrial",
-    "tags": [
-      "industrial",
-      "RL",
-      "self-improvement"
-    ],
-    "note": "MiMo-V2.6: scaling RL towards self-improvement (includes mid stages)."
-  },
-  {
-    "title": "OLMo-Detect: A Multi-Stage, Confounder-Controlled Benchmark for Membership Inference on Large Language Models",
-    "authors": "Shi et al.",
-    "year": 2026,
-    "month": 10,
-    "arxiv_id": "2610.02986",
-    "url": "https://arxiv.org/abs/2610.02986",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "8_benchmarks",
-    "tags": [
-      "evaluation",
-      "membership-inference",
-      "OLMo"
-    ],
-    "note": "OLMo-Detect: multi-stage MIA benchmark on LLMs (uses OLMo mid checkpoints)."
   },
   {
     "title": "Priming Base Models for Agentic Post-Training: An Open Midtraining Recipe",
@@ -192,7 +25,7 @@
     "url": "https://arxiv.org/abs/2610.22019",
     "code_url": null,
     "venue": "arXiv",
-    "category": "2.8_agent",
+    "category": "capability/agent",
     "tags": [
       "agent",
       "SWE",
@@ -203,225 +36,6 @@
     "note": "NVIDIA open midtraining recipe priming base models for agentic post-training."
   },
   {
-    "title": "Safety Mid-Training: Internalizing LLM Safety as a Foundational Capability",
-    "authors": "Zhao et al.",
-    "year": 2026,
-    "month": 10,
-    "arxiv_id": "2610.26809",
-    "url": "https://arxiv.org/abs/2610.26809",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.7_alignment",
-    "tags": [
-      "safety",
-      "mid-training"
-    ],
-    "note": "Safety Mid-Training: internalizing LLM safety as a foundational capability."
-  },
-  {
-    "title": "TrajLong: Co-Designing Agentic and Long-Context Supervision for Mid-Training",
-    "authors": "Peng et al.",
-    "year": 2026,
-    "month": 10,
-    "arxiv_id": "2610.04973",
-    "url": "https://arxiv.org/abs/2610.04973",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.5_longctx",
-    "tags": [
-      "long-context",
-      "agent",
-      "trajectory",
-      "mid-training"
-    ],
-    "note": "TrajLong: compile trajectories into dense long-context supervision for mid-training."
-  },
-  {
-    "title": "UltraData-Code: From Raw Repositories to Algorithmically Dense and Task-Oriented Code Data",
-    "authors": "Tu et al.",
-    "year": 2026,
-    "month": 10,
-    "arxiv_id": "2610.23960",
-    "url": "https://arxiv.org/abs/2610.23960",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.3_code",
-    "tags": [
-      "code",
-      "dataset",
-      "synthetic"
-    ],
-    "note": "UltraData-Code: algorithmically dense task-oriented code data from repos."
-  },
-  {
-    "title": "Where RL Breaks: Localizing and Repairing Failures via Targeted Continued Pretraining",
-    "authors": "Wang et al.",
-    "year": 2026,
-    "month": 10,
-    "arxiv_id": "2610.25836",
-    "url": "https://arxiv.org/abs/2610.25836",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.4_reasoning",
-    "tags": [
-      "reasoning",
-      "RL",
-      "continual-pretraining"
-    ],
-    "note": "Where RL breaks: localizing failures via targeted continued pretraining."
-  },
-  {
-    "title": "$T^5$: Twin-Critic Training for Token-Level Thoughts in Reinforcement Mid-Training",
-    "authors": "Qiao et al.",
-    "year": 2026,
-    "month": 9,
-    "arxiv_id": "2609.32791",
-    "url": "https://arxiv.org/abs/2609.32791",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.4_reasoning",
-    "tags": [
-      "reasoning",
-      "RL",
-      "mid-training"
-    ],
-    "note": "T^5: twin-critic token-level thoughts in reinforcement mid-training."
-  },
-  {
-    "title": "AutoDataBench: A Data-centric Testbed for Accelerating Auto Research",
-    "authors": "Yuan et al.",
-    "year": 2026,
-    "month": 9,
-    "arxiv_id": "2609.40097",
-    "url": "https://arxiv.org/abs/2609.40097",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "8_benchmarks",
-    "tags": [
-      "data-centric",
-      "auto-research",
-      "benchmark"
-    ],
-    "note": "AutoDataBench: data-centric testbed (relevant for mid data selection eval)."
-  },
-  {
-    "title": "Data Scout: Targeted Web Crawling for Domain-Specific Pretraining Corpora",
-    "authors": "Garg et al.",
-    "year": 2026,
-    "month": 9,
-    "arxiv_id": "2609.05766",
-    "url": "https://arxiv.org/abs/2609.05766",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "7_datasets",
-    "tags": [
-      "dataset",
-      "crawling",
-      "domain"
-    ],
-    "note": "Data Scout: targeted web crawling for domain-specific pretraining corpora."
-  },
-  {
-    "title": "EHRAdapt: Adapting Pretrained Language Models to Electronic Health Records with Semantic Priors for Rare Clinical Events",
-    "authors": "Goncalves et al.",
-    "year": 2026,
-    "month": 9,
-    "arxiv_id": "2609.34007",
-    "url": "https://arxiv.org/abs/2609.34007",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "3_data",
-    "tags": [
-      "EHR",
-      "continual-pretraining"
-    ],
-    "note": "EHRAdapt: adapting PLMs to electronic health records with semantic priors."
-  },
-  {
-    "title": "Everything in Moderation: Per-Domain Coverage Optima and Alignment-Resistant Domain Gaps in Multi-Domain Mid-Training",
-    "authors": "Xu et al.",
-    "year": 2026,
-    "month": 9,
-    "arxiv_id": "2609.09081",
-    "url": "https://arxiv.org/abs/2609.09081",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "1_theory",
-    "tags": [
-      "mixture",
-      "coverage",
-      "alignment"
-    ],
-    "note": "Everything in Moderation: per-domain coverage optima and alignment-resistant domain gaps."
-  },
-  {
-    "title": "From Zero to Hero: An Open LLM Ecosystem for Armenian",
-    "authors": "Arakelyan et al.",
-    "year": 2026,
-    "month": 9,
-    "arxiv_id": "2609.03350",
-    "url": "https://arxiv.org/abs/2609.03350",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.6_multilingual",
-    "tags": [
-      "Armenian",
-      "open",
-      "ecosystem"
-    ],
-    "note": "From Zero to Hero: open LLM ecosystem for Armenian (CPT recipe)."
-  },
-  {
-    "title": "Inoculation Midtraining with Learned Neologisms",
-    "authors": "O'Brien et al.",
-    "year": 2026,
-    "month": 9,
-    "arxiv_id": "2609.15886",
-    "url": "https://arxiv.org/abs/2609.15886",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.7_alignment",
-    "tags": [
-      "inoculation",
-      "midtraining",
-      "neologisms"
-    ],
-    "note": "Inoculation midtraining with learned neologisms."
-  },
-  {
-    "title": "Instella-MoE Technical Report",
-    "authors": "Liu et al.",
-    "year": 2026,
-    "month": 9,
-    "arxiv_id": "2609.00791",
-    "url": "https://arxiv.org/abs/2609.00791",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.1_general",
-    "tags": [
-      "MoE",
-      "technical-report"
-    ],
-    "note": "Instella-MoE technical report including mid/annealing stages."
-  },
-  {
-    "title": "Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall",
-    "authors": "He et al.",
-    "year": 2026,
-    "month": 9,
-    "arxiv_id": "2609.01532",
-    "url": "https://arxiv.org/abs/2609.01532",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.1_general",
-    "tags": [
-      "distillation",
-      "mid-training",
-      "reasoning"
-    ],
-    "note": "Knowledge distillation during mid-training favors reasoning over factual recall."
-  },
-  {
     "title": "LongCat-DeepResearch Technical Report",
     "authors": "Meituan LongCat Team",
     "year": 2026,
@@ -430,7 +44,7 @@
     "url": "https://arxiv.org/abs/2609.36071",
     "code_url": null,
     "venue": "arXiv",
-    "category": "2.8_agent",
+    "category": "capability/agent",
     "tags": [
       "agent",
       "deep-research",
@@ -447,147 +61,12 @@
     "url": "https://arxiv.org/abs/2609.18496",
     "code_url": null,
     "venue": "arXiv",
-    "category": "2.8_agent",
+    "category": "capability/agent",
     "tags": [
       "cybersecurity",
       "mid-training"
     ],
     "note": "MiST: Mid-Training LLMs for Cybersecurity."
-  },
-  {
-    "title": "Pre-training interventions, ex post facto: Grafting model beliefs across checkpoints",
-    "authors": "Nutter et al.",
-    "year": 2026,
-    "month": 9,
-    "arxiv_id": "2610.00767",
-    "url": "https://arxiv.org/abs/2610.00767",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "5_bridge",
-    "tags": [
-      "checkpoints",
-      "beliefs",
-      "intervention"
-    ],
-    "note": "Pre-training interventions ex post facto: grafting model beliefs across checkpoints."
-  },
-  {
-    "title": "Replay on Demand: An Emergent Curriculum for Balancing Adaptation and Forgetting in Continued Pretraining",
-    "authors": "Thede et al.",
-    "year": 2026,
-    "month": 9,
-    "arxiv_id": "2609.40089",
-    "url": "https://arxiv.org/abs/2609.40089",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "3_data",
-    "tags": [
-      "replay",
-      "curriculum",
-      "continual-pretraining"
-    ],
-    "note": "Replay on Demand: emergent curriculum balancing adaptation and forgetting in CPT."
-  },
-  {
-    "title": "SOLAR: A State-Driven Online Learning Rate Scheduler for LLM Pretraining",
-    "authors": "Shang et al.",
-    "year": 2026,
-    "month": 9,
-    "arxiv_id": "2609.34681",
-    "url": "https://arxiv.org/abs/2609.34681",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "4_optimization",
-    "tags": [
-      "LR-schedule",
-      "online",
-      "pretraining"
-    ],
-    "note": "SOLAR: state-driven online learning rate scheduler for LLM pretraining."
-  },
-  {
-    "title": "Shallow Beliefs: Synthetic document finetuning does not inoculate against emergent misalignment from reward hacking",
-    "authors": "Jose et al.",
-    "year": 2026,
-    "month": 9,
-    "arxiv_id": "2609.14998",
-    "url": "https://arxiv.org/abs/2609.14998",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.7_alignment",
-    "tags": [
-      "alignment",
-      "inoculation",
-      "synthetic"
-    ],
-    "note": "Shallow Beliefs: synthetic document finetuning does not inoculate against emergent misalignment (related to inoculation mid)."
-  },
-  {
-    "title": "SpectralShift: Effective Context Window Extension of Gated DeltaNet via Spectral Reparameterization",
-    "authors": "Liu et al.",
-    "year": 2026,
-    "month": 9,
-    "arxiv_id": "2609.14320",
-    "url": "https://arxiv.org/abs/2609.14320",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.5_longctx",
-    "tags": [
-      "long-context",
-      "DeltaNet"
-    ],
-    "note": "SpectralShift: context window extension of Gated DeltaNet."
-  },
-  {
-    "title": "Stress-testing Alignment Midtraining",
-    "authors": "Baines et al.",
-    "year": 2026,
-    "month": 9,
-    "arxiv_id": "2609.20412",
-    "url": "https://arxiv.org/abs/2609.20412",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.7_alignment",
-    "tags": [
-      "alignment",
-      "midtraining",
-      "stress-test"
-    ],
-    "note": "Stress-testing Alignment Midtraining."
-  },
-  {
-    "title": "Time-Incremental Continued Pretraining of LLMs: Knowledge Updates Without Catastrophic Forgetting",
-    "authors": "Öncel et al.",
-    "year": 2026,
-    "month": 9,
-    "arxiv_id": "2609.23916",
-    "url": "https://arxiv.org/abs/2609.23916",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "3_data",
-    "tags": [
-      "knowledge-update",
-      "continual-pretraining",
-      "forgetting"
-    ],
-    "note": "Time-incremental CPT: knowledge updates without catastrophic forgetting."
-  },
-  {
-    "title": "Towards Understanding Momentum Acceleration in River-Valley Loss Landscape",
-    "authors": "Lu et al.",
-    "year": 2026,
-    "month": 9,
-    "arxiv_id": "2609.30957",
-    "url": "https://arxiv.org/abs/2609.30957",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "1_theory",
-    "tags": [
-      "momentum",
-      "river-valley",
-      "LR"
-    ],
-    "note": "Towards understanding momentum acceleration in river-valley loss landscape."
   },
   {
     "title": "Trajectory Soup: Pushing the Compute-Scaling Frontier of LLM Mid-training via Diverse Trajectories",
@@ -598,7 +77,7 @@
     "url": "https://arxiv.org/abs/2609.37169",
     "code_url": null,
     "venue": "arXiv",
-    "category": "2.8_agent",
+    "category": "capability/agent",
     "tags": [
       "agent",
       "trajectory",
@@ -606,105 +85,6 @@
       "scaling"
     ],
     "note": "Trajectory Soup: scaling LLM mid-training via diverse trajectories."
-  },
-  {
-    "title": "What Pretraining and Midtraining Make Learnable from Rewards?",
-    "authors": "Yang et al.",
-    "year": 2026,
-    "month": 9,
-    "arxiv_id": "2609.38446",
-    "url": "https://arxiv.org/abs/2609.38446",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "1_theory",
-    "tags": [
-      "midtraining",
-      "RL",
-      "plasticity"
-    ],
-    "note": "What pretraining and midtraining make learnable from rewards."
-  },
-  {
-    "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
-    "authors": "He et al.",
-    "year": 2026,
-    "month": 9,
-    "arxiv_id": "2609.13356",
-    "url": "https://arxiv.org/abs/2609.13356",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.2_math",
-    "tags": [
-      "math",
-      "agentic-search",
-      "open"
-    ],
-    "note": "ZGCM-1: open efficient foundation model for math and agentic search."
-  },
-  {
-    "title": "Cracks in the Foundation: Seemingly Minor Architectural Choices Impact Long Context Extension",
-    "authors": "Bertsch et al.",
-    "year": 2026,
-    "month": 8,
-    "arxiv_id": "2608.10296",
-    "url": "https://arxiv.org/abs/2608.10296",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.5_longctx",
-    "tags": [
-      "long-context",
-      "architecture"
-    ],
-    "note": "Seemingly minor architectural choices impact long context extension."
-  },
-  {
-    "title": "Different Perturbations, Different Mechanisms: Understanding Continued Pre-training for Zero-Shot Dialect Robustness",
-    "authors": "Srivastava et al.",
-    "year": 2026,
-    "month": 8,
-    "arxiv_id": "2608.05510",
-    "url": "https://arxiv.org/abs/2608.05510",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "1_theory",
-    "tags": [
-      "continual-pretraining",
-      "mechanisms"
-    ],
-    "note": "Different perturbations, different mechanisms in continued pre-training for zero-shot."
-  },
-  {
-    "title": "Fine-Tuning Qwen3-27B for C-to-Rust Code Translation: A Three-Stage Curriculum of Pretraining, Debugging-Aware SFT, and Task-Specific SFT",
-    "authors": "Zhao et al.",
-    "year": 2026,
-    "month": 8,
-    "arxiv_id": "2608.13681",
-    "url": "https://arxiv.org/abs/2608.13681",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.3_code",
-    "tags": [
-      "code",
-      "curriculum",
-      "translation"
-    ],
-    "note": "Fine-tuning Qwen3 for C-to-Rust: three-stage curriculum of pretraining/mid/SFT."
-  },
-  {
-    "title": "K-EXAONE 2.0 Technical Report",
-    "authors": "Choi et al.",
-    "year": 2026,
-    "month": 8,
-    "arxiv_id": "2608.04505",
-    "url": "https://arxiv.org/abs/2608.04505",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "6_industrial",
-    "tags": [
-      "industrial",
-      "Korean"
-    ],
-    "note": "K-EXAONE 2.0 technical report (mid/annealing stages)."
   },
   {
     "title": "MidTool: Mid-training Data Synthesis for Agentic Tool Use",
@@ -715,7 +95,7 @@
     "url": "https://arxiv.org/abs/2608.20314",
     "code_url": null,
     "venue": "arXiv",
-    "category": "2.8_agent",
+    "category": "capability/agent",
     "tags": [
       "agent",
       "tool-use",
@@ -723,41 +103,6 @@
       "mid-training"
     ],
     "note": "MidTool: mid-training data synthesis for agentic tool use; open corpus **MidTool-Mix** (~20.3B)."
-  },
-  {
-    "title": "OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling",
-    "authors": "Paul et al.",
-    "year": 2026,
-    "month": 8,
-    "arxiv_id": "2608.05141",
-    "url": "https://arxiv.org/abs/2608.05141",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.3_code",
-    "tags": [
-      "code",
-      "long-context",
-      "mid-training",
-      "repo"
-    ],
-    "note": "OctoLong: mid-training on cross-repository code contexts for long-context."
-  },
-  {
-    "title": "Reading the News: Adapting Large Language Models to Swedish Journalism Through Continued Pre-Training",
-    "authors": "Borggren et al.",
-    "year": 2026,
-    "month": 8,
-    "arxiv_id": "2608.30609",
-    "url": "https://arxiv.org/abs/2608.30609",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.6_multilingual",
-    "tags": [
-      "Swedish",
-      "journalism",
-      "continual-pretraining"
-    ],
-    "note": "Reading the News: adapting LLMs to Swedish journalism via CPT."
   },
   {
     "title": "SPT: Skills as Pre-Training Data for Agentic Language Models",
@@ -768,395 +113,13 @@
     "url": "https://arxiv.org/abs/2608.26563",
     "code_url": null,
     "venue": "arXiv",
-    "category": "2.8_agent",
+    "category": "capability/agent",
     "tags": [
       "agent",
       "skills",
       "pretraining-data"
     ],
     "note": "SPT: skills as pre-training data for agentic language models."
-  },
-  {
-    "title": "State2State: Environment-Derived Mid-Training for LLM Agents",
-    "authors": "Lei et al.",
-    "year": 2026,
-    "month": 8,
-    "arxiv_id": "2608.04934",
-    "url": "https://arxiv.org/abs/2608.04934",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "9_boundary",
-    "tags": [
-      "boundary",
-      "env-RL",
-      "agent"
-    ],
-    "note": "BOUNDARY: self-named mid-training but GRPO environment-derived RL warmup."
-  },
-  {
-    "title": "Synthetic Worlds for Temporal Evaluation and Knowledge Updating in LLMs",
-    "authors": "Zheng et al.",
-    "year": 2026,
-    "month": 8,
-    "arxiv_id": "2609.00184",
-    "url": "https://arxiv.org/abs/2609.00184",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "3_data",
-    "tags": [
-      "synthetic",
-      "knowledge-update"
-    ],
-    "note": "Synthetic worlds for temporal evaluation and knowledge updating in LLMs."
-  },
-  {
-    "title": "Unfolding Scientific Papers into Multi-Turn Generation Trajectories for Continued Pre-Training",
-    "authors": "Xu et al.",
-    "year": 2026,
-    "month": 8,
-    "arxiv_id": "2608.25826",
-    "url": "https://arxiv.org/abs/2608.25826",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.2_math",
-    "tags": [
-      "STEM",
-      "synthetic",
-      "continual-pretraining"
-    ],
-    "note": "Unfolding scientific papers into multi-turn trajectories for CPT."
-  },
-  {
-    "title": "UpgradeBench: A Decision-Centric Benchmark for Upgrading Fine-Tuned LLM Specialists",
-    "authors": "Chen et al.",
-    "year": 2026,
-    "month": 8,
-    "arxiv_id": "2608.20918",
-    "url": "https://arxiv.org/abs/2608.20918",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "5_bridge",
-    "tags": [
-      "evaluation",
-      "upgrade",
-      "specialists"
-    ],
-    "note": "UpgradeBench: decision-centric benchmark for upgrading fine-tuned specialists."
-  },
-  {
-    "title": "When to Review: Spaced Repetition for Continual Pre-Training of Language Models",
-    "authors": "Atreya et al.",
-    "year": 2026,
-    "month": 8,
-    "arxiv_id": "2608.17530",
-    "url": "https://arxiv.org/abs/2608.17530",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "3_data",
-    "tags": [
-      "replay",
-      "spaced-repetition",
-      "continual-pretraining"
-    ],
-    "note": "When to Review: spaced repetition for continual pre-training."
-  },
-  {
-    "title": "AREX: Towards a Recursively Self-Improving Agent for Deep Research",
-    "authors": "Lu et al.",
-    "year": 2026,
-    "month": 7,
-    "arxiv_id": "2607.21461",
-    "url": "https://arxiv.org/abs/2607.21461",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "9_boundary",
-    "tags": [
-      "boundary",
-      "deep-research",
-      "agent"
-    ],
-    "note": "AREX: recursively self-improving agent for deep research (system; mid unclear)."
-  },
-  {
-    "title": "Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training",
-    "authors": "Tao et al.",
-    "year": 2026,
-    "month": 7,
-    "arxiv_id": "2607.28109",
-    "url": "https://arxiv.org/abs/2607.28109",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.1_general",
-    "tags": [
-      "synthetic",
-      "textbook",
-      "mid-training"
-    ],
-    "note": "Book-level organization improves synthetic textbook data for mid-training."
-  },
-  {
-    "title": "Constitutional Midtraining: Content Presence Drives Alignment Gains",
-    "authors": "Cho et al.",
-    "year": 2026,
-    "month": 7,
-    "arxiv_id": "2607.26654",
-    "url": "https://arxiv.org/abs/2607.26654",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.7_alignment",
-    "tags": [
-      "alignment",
-      "constitution",
-      "mid-training"
-    ],
-    "note": "Constitutional Midtraining: content presence drives alignment gains."
-  },
-  {
-    "title": "DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data",
-    "authors": "Huang et al.",
-    "year": 2026,
-    "month": 7,
-    "arxiv_id": "2607.24717",
-    "url": "https://arxiv.org/abs/2607.24717",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "7_datasets",
-    "tags": [
-      "data-selection",
-      "pretraining",
-      "orchestration"
-    ],
-    "note": "DataOrchestra: learn to orchestrate per-example curation of pretraining data (usable in mid mixes)."
-  },
-  {
-    "title": "Function-Aware Fill-in-the-Middle as Mid-Training for Coding Agent Foundation Models",
-    "authors": "Wang et al.",
-    "year": 2026,
-    "month": 7,
-    "arxiv_id": "2607.12463",
-    "url": "https://arxiv.org/abs/2607.12463",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.3_code",
-    "tags": [
-      "code",
-      "FIM",
-      "mid-training",
-      "agent"
-    ],
-    "note": "Function-aware FIM as mid-training for coding agent foundation models."
-  },
-  {
-    "title": "Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling",
-    "authors": "Hu et al.",
-    "year": 2026,
-    "month": 7,
-    "arxiv_id": "2607.02980",
-    "url": "https://arxiv.org/abs/2607.02980",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.5_longctx",
-    "tags": [
-      "long-context",
-      "sparse-attention"
-    ],
-    "note": "Hierarchical Sparse Attention Done Right: toward infinite context modeling."
-  },
-  {
-    "title": "Index SLM Technical Report",
-    "authors": "Li et al.",
-    "year": 2026,
-    "month": 7,
-    "arxiv_id": "2607.09885",
-    "url": "https://arxiv.org/abs/2607.09885",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "6_industrial",
-    "tags": [
-      "industrial",
-      "SLM"
-    ],
-    "note": "Index SLM technical report."
-  },
-  {
-    "title": "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE",
-    "authors": "Tang et al.",
-    "year": 2026,
-    "month": 7,
-    "arxiv_id": "2607.07740",
-    "url": "https://arxiv.org/abs/2607.07740",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.5_longctx",
-    "tags": [
-      "long-context",
-      "RoPE"
-    ],
-    "note": "Jet-Long: efficient long-context extension with dynamic bifocal RoPE."
-  },
-  {
-    "title": "Retrofitting Recurrent Depth into a Pretrained Language Model: Installation, Extrapolation, Transfer, and Retention at Two Parameter Budgets",
-    "authors": "Mark Shapiro",
-    "year": 2026,
-    "month": 7,
-    "arxiv_id": "2608.11233",
-    "url": "https://arxiv.org/abs/2608.11233",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "4_optimization",
-    "tags": [
-      "architecture",
-      "recurrent-depth"
-    ],
-    "note": "Retrofitting recurrent depth into a pretrained LM (mid-stage architectural)."
-  },
-  {
-    "title": "SciCodePile: A 128GB Corpus and Executable Benchmark for Challenging Scientific Code Generation",
-    "authors": "Sun et al.",
-    "year": 2026,
-    "month": 7,
-    "arxiv_id": "2607.19104",
-    "url": "https://arxiv.org/abs/2607.19104",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "7_datasets",
-    "tags": [
-      "dataset",
-      "scientific-code"
-    ],
-    "note": "SciCodePile: 128GB corpus and executable benchmark for scientific code."
-  },
-  {
-    "title": "WSqD: A Horizon-Free Learning Rate Schedule for Large Model Training",
-    "authors": "Ma et al.",
-    "year": 2026,
-    "month": 7,
-    "arxiv_id": "2607.10959",
-    "url": "https://arxiv.org/abs/2607.10959",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "4_optimization",
-    "tags": [
-      "LR-schedule",
-      "WSqD"
-    ],
-    "note": "WSqD: horizon-free learning rate schedule for large model training."
-  },
-  {
-    "title": "ExpRL: Exploratory RL for LLM Mid-Training",
-    "authors": "Xiang et al.",
-    "year": 2026,
-    "month": 6,
-    "arxiv_id": "2606.17024",
-    "url": "https://arxiv.org/abs/2606.17024",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.4_reasoning",
-    "tags": [
-      "reasoning",
-      "RL",
-      "mid-training",
-      "exploration"
-    ],
-    "note": "ExpRL: exploratory RL for LLM mid-training."
-  },
-  {
-    "title": "GR2 Technical Report",
-    "authors": "Li et al.",
-    "year": 2026,
-    "month": 6,
-    "arxiv_id": "2606.31984",
-    "url": "https://arxiv.org/abs/2606.31984",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "6_industrial",
-    "tags": [
-      "industrial"
-    ],
-    "note": "GR2 technical report."
-  },
-  {
-    "title": "KletterMix: Climbing Toward High-Quality German Pretraining Data - The Full Report",
-    "authors": "Kraus et al.",
-    "year": 2026,
-    "month": 6,
-    "arxiv_id": "2606.03773",
-    "url": "https://arxiv.org/abs/2606.03773",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "7_datasets",
-    "tags": [
-      "dataset",
-      "German",
-      "HQ-data"
-    ],
-    "note": "KletterMix: high-quality German pretraining data report."
-  },
-  {
-    "title": "Predictable Scaling Laws of Optimal Hyperparameters for LLM Continued Pre-training",
-    "authors": "Zhou et al.",
-    "year": 2026,
-    "month": 6,
-    "arxiv_id": "2606.05610",
-    "url": "https://arxiv.org/abs/2606.05610",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "1_theory",
-    "tags": [
-      "scaling",
-      "continual-pretraining",
-      "hyperparameters"
-    ],
-    "note": "Predictable scaling laws of optimal hyperparameters for LLM CPT."
-  },
-  {
-    "title": "moBERTo: A Modern Encoder for Portuguese via Continued Pretraining of ModernBERT",
-    "authors": "Laitz et al.",
-    "year": 2026,
-    "month": 6,
-    "arxiv_id": "2606.22722",
-    "url": "https://arxiv.org/abs/2606.22722",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.6_multilingual",
-    "tags": [
-      "Portuguese",
-      "encoder",
-      "continual-pretraining"
-    ],
-    "note": "moBERTo: ModernBERT continued pretraining for Portuguese."
-  },
-  {
-    "title": "A Causal Language Modeling Detour Improves Encoder Continued Pretraining",
-    "authors": "Touchent et al.",
-    "year": 2026,
-    "month": 5,
-    "arxiv_id": "2605.12438",
-    "url": "https://arxiv.org/abs/2605.12438",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "4_optimization",
-    "tags": [
-      "encoder",
-      "continual-pretraining"
-    ],
-    "note": "A causal LM detour improves encoder continued pretraining."
-  },
-  {
-    "title": "Freeze Deep, Train Shallow: Interpretable Layer Allocation for Continued Pre-Training",
-    "authors": "Wu et al.",
-    "year": 2026,
-    "month": 5,
-    "arxiv_id": "2605.11416",
-    "url": "https://arxiv.org/abs/2605.11416",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "4_optimization",
-    "tags": [
-      "continual-pretraining",
-      "layer-allocation"
-    ],
-    "note": "Freeze Deep, Train Shallow: interpretable layer allocation for CPT."
   },
   {
     "title": "GUI-CIDER: Mid-training GUI Agents via Causal Internalization and Density-aware Exemplar Reselection",
@@ -1167,13 +130,472 @@
     "url": "https://arxiv.org/abs/2605.28534",
     "code_url": null,
     "venue": "arXiv",
-    "category": "2.8_agent",
+    "category": "capability/agent",
     "tags": [
       "agent",
       "GUI",
       "mid-training"
     ],
     "note": "GUI-CIDER: mid-training GUI agents via causal internalization."
+  },
+  {
+    "title": "QUEST: Training Frontier Deep Research Agents with Fully Synthetic Tasks",
+    "authors": "Xie et al.",
+    "year": 2026,
+    "month": 5,
+    "arxiv_id": "2605.24218",
+    "url": "https://arxiv.org/abs/2605.24218",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/agent",
+    "tags": [
+      "agent",
+      "deep-research",
+      "synthetic"
+    ],
+    "note": "QUEST: training frontier deep research agents with fully synthetic tasks."
+  },
+  {
+    "title": "Step-DeepResearch Technical Report",
+    "authors": "Hu et al.",
+    "year": 2025,
+    "month": 12,
+    "arxiv_id": "2512.20491",
+    "url": "https://arxiv.org/abs/2512.20491",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/agent",
+    "tags": [
+      "agent",
+      "deep-research",
+      "industrial"
+    ],
+    "note": "Step-DeepResearch technical report."
+  },
+  {
+    "title": "Tongyi DeepResearch Technical Report",
+    "authors": "Tongyi DeepResearch Team",
+    "year": 2025,
+    "month": 10,
+    "arxiv_id": "2510.24701",
+    "url": "https://arxiv.org/abs/2510.24701",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/agent",
+    "tags": [
+      "agent",
+      "deep-research",
+      "mid-training",
+      "industrial"
+    ],
+    "note": "Tongyi DeepResearch: system report with agentic mid-training grounded in AgentFounder."
+  },
+  {
+    "title": "Scaling Agents via Continual Pre-training",
+    "authors": "Su et al.",
+    "year": 2025,
+    "month": 9,
+    "arxiv_id": "2509.13310",
+    "url": "https://arxiv.org/abs/2509.13310",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/agent",
+    "tags": [
+      "agent",
+      "CPT",
+      "deep-research",
+      "synthetic"
+    ],
+    "note": "AgentFounder: Scaling Agents via Continual Pre-training (Agentic CPT)."
+  },
+  {
+    "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+    "authors": "Zeng et al.",
+    "year": 2025,
+    "month": 8,
+    "arxiv_id": "2508.06471",
+    "url": "https://arxiv.org/abs/2508.06471",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/agent",
+    "tags": [
+      "agent",
+      "code",
+      "reasoning",
+      "mid-training",
+      "industrial"
+    ],
+    "note": "GLM-4.5: explicit Mid-Training section (repo code, synthetic reasoning, agent trajectories, 128K)."
+  },
+  {
+    "title": "Hephaestus: Improving Fundamental Agent Capabilities of Large Language Models through Continual Pre-Training",
+    "authors": "Zhuang et al.",
+    "year": 2025,
+    "month": 2,
+    "arxiv_id": "2502.06589",
+    "url": "https://arxiv.org/abs/2502.06589",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/agent",
+    "tags": [
+      "agent",
+      "continual-pretraining"
+    ],
+    "note": "Hephaestus: improving fundamental agent capabilities via continual pre-training."
+  },
+  {
+    "title": "UltraData-Code: From Raw Repositories to Algorithmically Dense and Task-Oriented Code Data",
+    "authors": "Tu et al.",
+    "year": 2026,
+    "month": 10,
+    "arxiv_id": "2610.23960",
+    "url": "https://arxiv.org/abs/2610.23960",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/code",
+    "tags": [
+      "code",
+      "dataset",
+      "synthetic"
+    ],
+    "note": "UltraData-Code: algorithmically dense task-oriented code data from repos."
+  },
+  {
+    "title": "Fine-Tuning Qwen3-27B for C-to-Rust Code Translation: A Three-Stage Curriculum of Pretraining, Debugging-Aware SFT, and Task-Specific SFT",
+    "authors": "Zhao et al.",
+    "year": 2026,
+    "month": 8,
+    "arxiv_id": "2608.13681",
+    "url": "https://arxiv.org/abs/2608.13681",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/code",
+    "tags": [
+      "code",
+      "curriculum",
+      "translation"
+    ],
+    "note": "Fine-tuning Qwen3 for C-to-Rust: three-stage curriculum of pretraining/mid/SFT."
+  },
+  {
+    "title": "OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling",
+    "authors": "Paul et al.",
+    "year": 2026,
+    "month": 8,
+    "arxiv_id": "2608.05141",
+    "url": "https://arxiv.org/abs/2608.05141",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/code",
+    "tags": [
+      "code",
+      "long-context",
+      "mid-training",
+      "repo"
+    ],
+    "note": "OctoLong: mid-training on cross-repository code contexts for long-context."
+  },
+  {
+    "title": "Function-Aware Fill-in-the-Middle as Mid-Training for Coding Agent Foundation Models",
+    "authors": "Wang et al.",
+    "year": 2026,
+    "month": 7,
+    "arxiv_id": "2607.12463",
+    "url": "https://arxiv.org/abs/2607.12463",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/code",
+    "tags": [
+      "code",
+      "FIM",
+      "mid-training",
+      "agent"
+    ],
+    "note": "Function-aware FIM as mid-training for coding agent foundation models."
+  },
+  {
+    "title": "SciCodePile: A 128GB Corpus and Executable Benchmark for Challenging Scientific Code Generation",
+    "authors": "Sun et al.",
+    "year": 2026,
+    "month": 7,
+    "arxiv_id": "2607.19104",
+    "url": "https://arxiv.org/abs/2607.19104",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/code",
+    "tags": [
+      "dataset",
+      "scientific-code"
+    ],
+    "note": "SciCodePile: 128GB corpus and executable benchmark for scientific code. [dataset / corpus for scientific code mid]"
+  },
+  {
+    "title": "H2LooP Spark Preview: Continual Pretraining of Large Language Models for Low-Level Embedded Systems Code",
+    "authors": "Singh et al.",
+    "year": 2026,
+    "month": 3,
+    "arxiv_id": "2603.11139",
+    "url": "https://arxiv.org/abs/2603.11139",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/code",
+    "tags": [
+      "code",
+      "embedded",
+      "continual-pretraining"
+    ],
+    "note": "H2LooP Spark: CPT of LLMs for low-level embedded systems."
+  },
+  {
+    "title": "Unseen-Codebases-Domain Data Synthesis and Training Based on Code Graphs",
+    "authors": "Ou et al.",
+    "year": 2026,
+    "month": 2,
+    "arxiv_id": "2602.20799",
+    "url": "https://arxiv.org/abs/2602.20799",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/code",
+    "tags": [
+      "code",
+      "synthetic",
+      "unseen-repos"
+    ],
+    "note": "Unseen-codebases-domain data synthesis and training based on code graphs."
+  },
+  {
+    "title": "daVinci-Dev: Agent-native Mid-training for Software Engineering",
+    "authors": "Zeng et al.",
+    "year": 2026,
+    "month": 1,
+    "arxiv_id": "2601.18418",
+    "url": "https://arxiv.org/abs/2601.18418",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/code",
+    "tags": [
+      "code",
+      "SWE",
+      "agent-native",
+      "mid-training"
+    ],
+    "note": "daVinci-Dev: agent-native mid-training for software engineering (ctx+env trajectories)."
+  },
+  {
+    "title": "HE-SNR: Uncovering Latent Logic via Entropy for Guiding Mid-Training on SWE-bench",
+    "authors": "Wang et al.",
+    "year": 2026,
+    "month": 1,
+    "arxiv_id": "2601.20255",
+    "url": "https://arxiv.org/abs/2601.20255",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/code",
+    "tags": [
+      "code",
+      "SWE",
+      "mid-training"
+    ],
+    "note": "HE-SNR: entropy-guided mid-training on SWE-bench latent logic."
+  },
+  {
+    "title": "CWM: An Open-Weights LLM for Research on Code Generation with World Models",
+    "authors": "FAIR CodeGen team",
+    "year": 2025,
+    "month": 9,
+    "arxiv_id": "2510.02387",
+    "url": "https://arxiv.org/abs/2510.02387",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/code",
+    "tags": [
+      "code",
+      "world-model",
+      "open-weights"
+    ],
+    "note": "CWM: open-weights LLM for code generation with world models; mid-style training."
+  },
+  {
+    "title": "Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents",
+    "authors": "Yang et al.",
+    "year": 2025,
+    "month": 9,
+    "arxiv_id": "2509.23045",
+    "url": "https://arxiv.org/abs/2509.23045",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/code",
+    "tags": [
+      "code",
+      "SWE",
+      "mid-training",
+      "agent"
+    ],
+    "note": "Kimi-Dev: ~150B SWE mid-training as skill prior for SWE-agents."
+  },
+  {
+    "title": "Scaling Granite Code Models to 128K Context",
+    "authors": "Stallone et al.",
+    "year": 2024,
+    "month": 7,
+    "arxiv_id": "2407.13739",
+    "url": "https://arxiv.org/abs/2407.13739",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/code",
+    "tags": [
+      "code",
+      "long-context"
+    ],
+    "note": "Scaling Granite Code models to 128K context."
+  },
+  {
+    "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement",
+    "authors": "Xiaomi LLM-Core Team",
+    "year": 2026,
+    "month": 10,
+    "arxiv_id": "2610.11959",
+    "url": "https://arxiv.org/abs/2610.11959",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/general",
+    "tags": [
+      "industrial",
+      "RL",
+      "self-improvement"
+    ],
+    "note": "MiMo-V2.6: scaling RL towards self-improvement (includes mid stages). [tech report; mid stages under general quality]"
+  },
+  {
+    "title": "Data Scout: Targeted Web Crawling for Domain-Specific Pretraining Corpora",
+    "authors": "Garg et al.",
+    "year": 2026,
+    "month": 9,
+    "arxiv_id": "2609.05766",
+    "url": "https://arxiv.org/abs/2609.05766",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/general",
+    "tags": [
+      "dataset",
+      "crawling",
+      "domain"
+    ],
+    "note": "Data Scout: targeted web crawling for domain-specific pretraining corpora. [dataset / crawling recipe for domain mid mixes]"
+  },
+  {
+    "title": "EHRAdapt: Adapting Pretrained Language Models to Electronic Health Records with Semantic Priors for Rare Clinical Events",
+    "authors": "Goncalves et al.",
+    "year": 2026,
+    "month": 9,
+    "arxiv_id": "2609.34007",
+    "url": "https://arxiv.org/abs/2609.34007",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/general",
+    "tags": [
+      "EHR",
+      "continual-pretraining"
+    ],
+    "note": "EHRAdapt: adapting PLMs to electronic health records with semantic priors."
+  },
+  {
+    "title": "Instella-MoE Technical Report",
+    "authors": "Liu et al.",
+    "year": 2026,
+    "month": 9,
+    "arxiv_id": "2609.00791",
+    "url": "https://arxiv.org/abs/2609.00791",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/general",
+    "tags": [
+      "MoE",
+      "technical-report"
+    ],
+    "note": "Instella-MoE technical report including mid/annealing stages."
+  },
+  {
+    "title": "Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall",
+    "authors": "He et al.",
+    "year": 2026,
+    "month": 9,
+    "arxiv_id": "2609.01532",
+    "url": "https://arxiv.org/abs/2609.01532",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/general",
+    "tags": [
+      "distillation",
+      "mid-training",
+      "reasoning"
+    ],
+    "note": "Knowledge distillation during mid-training favors reasoning over factual recall."
+  },
+  {
+    "title": "Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training",
+    "authors": "Tao et al.",
+    "year": 2026,
+    "month": 7,
+    "arxiv_id": "2607.28109",
+    "url": "https://arxiv.org/abs/2607.28109",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/general",
+    "tags": [
+      "synthetic",
+      "textbook",
+      "mid-training"
+    ],
+    "note": "Book-level organization improves synthetic textbook data for mid-training."
+  },
+  {
+    "title": "DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data",
+    "authors": "Huang et al.",
+    "year": 2026,
+    "month": 7,
+    "arxiv_id": "2607.24717",
+    "url": "https://arxiv.org/abs/2607.24717",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/general",
+    "tags": [
+      "data-selection",
+      "pretraining",
+      "orchestration"
+    ],
+    "note": "DataOrchestra: learn to orchestrate per-example curation of pretraining data (usable in mid mixes). [dataset curation recipe usable in mid mixes]"
+  },
+  {
+    "title": "Index SLM Technical Report",
+    "authors": "Li et al.",
+    "year": 2026,
+    "month": 7,
+    "arxiv_id": "2607.09885",
+    "url": "https://arxiv.org/abs/2607.09885",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/general",
+    "tags": [
+      "industrial",
+      "SLM"
+    ],
+    "note": "Index SLM technical report. [tech report]"
+  },
+  {
+    "title": "GR2 Technical Report",
+    "authors": "Li et al.",
+    "year": 2026,
+    "month": 6,
+    "arxiv_id": "2606.31984",
+    "url": "https://arxiv.org/abs/2606.31984",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/general",
+    "tags": [
+      "industrial"
+    ],
+    "note": "GR2 technical report. [tech report]"
   },
   {
     "title": "How Should LLMs Consume High-Quality Data? Optimal Data Scheduling via Quality-Aware Functional Scaling Laws",
@@ -1184,7 +606,7 @@
     "url": "https://arxiv.org/abs/2605.25698",
     "code_url": null,
     "venue": "arXiv",
-    "category": "2.1_general",
+    "category": "capability/general",
     "tags": [
       "data-schedule",
       "HQ-data"
@@ -1200,129 +622,13 @@
     "url": "https://arxiv.org/abs/2605.30288",
     "code_url": null,
     "venue": "arXiv",
-    "category": "2.1_general",
+    "category": "capability/general",
     "tags": [
       "data-selection",
       "mid-training",
       "rubric"
     ],
     "note": "MIRA: Mid-training Rubric Anchoring for source-aware data selection."
-  },
-  {
-    "title": "Mid-Training with Self-Generated Data Improves Reinforcement Learning in Language Models",
-    "authors": "RRV et al.",
-    "year": 2026,
-    "month": 5,
-    "arxiv_id": "2605.08472",
-    "url": "https://arxiv.org/abs/2605.08472",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.4_reasoning",
-    "tags": [
-      "reasoning",
-      "RL",
-      "synthetic",
-      "mid-training"
-    ],
-    "note": "Mid-training with self-generated data improves subsequent RL."
-  },
-  {
-    "title": "Model Spec Midtraining: Improving How Alignment Training Generalizes",
-    "authors": "Li et al.",
-    "year": 2026,
-    "month": 5,
-    "arxiv_id": "2605.02087",
-    "url": "https://arxiv.org/abs/2605.02087",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.7_alignment",
-    "tags": [
-      "alignment",
-      "mid-training",
-      "spec"
-    ],
-    "note": "Model Spec Midtraining: improving how alignment training generalizes."
-  },
-  {
-    "title": "Phoenix-VL 1.5 Medium Technical Report",
-    "authors": "Team Phoenix",
-    "year": 2026,
-    "month": 5,
-    "arxiv_id": "2605.10391",
-    "url": "https://arxiv.org/abs/2605.10391",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.9_multimodal",
-    "tags": [
-      "VLM",
-      "technical-report"
-    ],
-    "note": "Phoenix-VL 1.5 Medium technical report with mid/continued stages."
-  },
-  {
-    "title": "QUEST: Training Frontier Deep Research Agents with Fully Synthetic Tasks",
-    "authors": "Xie et al.",
-    "year": 2026,
-    "month": 5,
-    "arxiv_id": "2605.24218",
-    "url": "https://arxiv.org/abs/2605.24218",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.8_agent",
-    "tags": [
-      "agent",
-      "deep-research",
-      "synthetic"
-    ],
-    "note": "QUEST: training frontier deep research agents with fully synthetic tasks."
-  },
-  {
-    "title": "ScheduleFree+: Scaling Learning-Rate-Free & Schedule-Free Learning to Large Language Models",
-    "authors": "Aaron Defazio",
-    "year": 2026,
-    "month": 5,
-    "arxiv_id": "2605.19095",
-    "url": "https://arxiv.org/abs/2605.19095",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "4_optimization",
-    "tags": [
-      "schedule-free",
-      "LR"
-    ],
-    "note": "ScheduleFree+: scaling learning-rate-free & schedule-free learning to LLMs."
-  },
-  {
-    "title": "TFGN: Task-Free, Replay-Free Continual Pre-Training Without Catastrophic Forgetting at LLM Scale",
-    "authors": "Anurup Ganguli",
-    "year": 2026,
-    "month": 5,
-    "arxiv_id": "2605.15053",
-    "url": "https://arxiv.org/abs/2605.15053",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "4_optimization",
-    "tags": [
-      "continual-pretraining",
-      "replay-free"
-    ],
-    "note": "TFGN: task-free, replay-free continual pre-training without forgetting at LLM scale."
-  },
-  {
-    "title": "Can Continual Pre-training Bridge the Performance Gap between General-purpose and Specialized Language Models in the Medical Domain?",
-    "authors": "Doll et al.",
-    "year": 2026,
-    "month": 4,
-    "arxiv_id": "2604.19394",
-    "url": "https://arxiv.org/abs/2604.19394",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "5_bridge",
-    "tags": [
-      "continual-pretraining",
-      "specialized"
-    ],
-    "note": "Can CPT bridge the gap between general-purpose and specialized LLMs?"
   },
   {
     "title": "Continued Pretraining of FinBERT on Finnish Histopathological Reports: Train-Time Signals and Proxy Downstream Correlations",
@@ -1333,164 +639,13 @@
     "url": "https://arxiv.org/abs/2604.14815",
     "code_url": null,
     "venue": "arXiv",
-    "category": "3_data",
+    "category": "capability/general",
     "tags": [
       "Finnish",
       "medical",
       "continual-pretraining"
     ],
     "note": "Continued pretraining of FinBERT on Finnish histopathological reports."
-  },
-  {
-    "title": "Helpfulness Hurts: Domain-Dependent Degradation of Mid-Trained Compassion Values Under Post-Training",
-    "authors": "Brazilek et al.",
-    "year": 2026,
-    "month": 4,
-    "arxiv_id": "2606.26102",
-    "url": "https://arxiv.org/abs/2606.26102",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.7_alignment",
-    "tags": [
-      "alignment",
-      "mid-training",
-      "values"
-    ],
-    "note": "Helpfulness Hurts: domain-dependent degradation of mid-trained compassion values."
-  },
-  {
-    "title": "MixAtlas: Uncertainty-aware Data Mixture Optimization for Multimodal LLM Midtraining",
-    "authors": "Wen et al.",
-    "year": 2026,
-    "month": 4,
-    "arxiv_id": "2604.14198",
-    "url": "https://arxiv.org/abs/2604.14198",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.9_multimodal",
-    "tags": [
-      "multimodal",
-      "mixture",
-      "mid-training"
-    ],
-    "note": "MixAtlas: uncertainty-aware data mixture optimization for multimodal LLM midtraining."
-  },
-  {
-    "title": "Revealing the Learning Dynamics of Long-Context Continual Pre-training",
-    "authors": "Liang et al.",
-    "year": 2026,
-    "month": 4,
-    "arxiv_id": "2604.02650",
-    "url": "https://arxiv.org/abs/2604.02650",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "1_theory",
-    "tags": [
-      "long-context",
-      "continual-pretraining",
-      "dynamics"
-    ],
-    "note": "Learning dynamics of long-context continual pre-training."
-  },
-  {
-    "title": "EstLLM: Enhancing Estonian Capabilities in Multilingual LLMs via Continued Pretraining and Post-Training",
-    "authors": "Dorkin et al.",
-    "year": 2026,
-    "month": 3,
-    "arxiv_id": "2603.02041",
-    "url": "https://arxiv.org/abs/2603.02041",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.6_multilingual",
-    "tags": [
-      "multilingual",
-      "Estonian",
-      "continual-pretraining"
-    ],
-    "note": "EstLLM: enhancing Estonian via CPT and post-training."
-  },
-  {
-    "title": "H2LooP Spark Preview: Continual Pretraining of Large Language Models for Low-Level Embedded Systems Code",
-    "authors": "Singh et al.",
-    "year": 2026,
-    "month": 3,
-    "arxiv_id": "2603.11139",
-    "url": "https://arxiv.org/abs/2603.11139",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.3_code",
-    "tags": [
-      "code",
-      "embedded",
-      "continual-pretraining"
-    ],
-    "note": "H2LooP Spark: CPT of LLMs for low-level embedded systems."
-  },
-  {
-    "title": "OptiMer: Optimal Distribution Vector Merging Is Better than Data Mixing for Continual Pre-Training",
-    "authors": "Song et al.",
-    "year": 2026,
-    "month": 3,
-    "arxiv_id": "2603.28858",
-    "url": "https://arxiv.org/abs/2603.28858",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "3_data",
-    "tags": [
-      "mixture",
-      "merging",
-      "continual-pretraining"
-    ],
-    "note": "OptiMer: optimal distribution vector merging vs data mixing for CPT."
-  },
-  {
-    "title": "Stacked from One: Multi-Scale Self-Injection for Context Window Extension",
-    "authors": "Han et al.",
-    "year": 2026,
-    "month": 3,
-    "arxiv_id": "2603.04759",
-    "url": "https://arxiv.org/abs/2603.04759",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.5_longctx",
-    "tags": [
-      "long-context",
-      "self-injection"
-    ],
-    "note": "Stacked from One: multi-scale self-injection for context window extension."
-  },
-  {
-    "title": "Synthetic Rewriting as a Quality Multiplier: Evidence from Portuguese Continued Pretraining",
-    "authors": "Almeida et al.",
-    "year": 2026,
-    "month": 3,
-    "arxiv_id": "2603.24826",
-    "url": "https://arxiv.org/abs/2603.24826",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "3_data",
-    "tags": [
-      "synthetic",
-      "Portuguese",
-      "continual-pretraining"
-    ],
-    "note": "Synthetic rewriting as quality multiplier: Portuguese CPT evidence."
-  },
-  {
-    "title": "Tucano 2 Cool: Better Open Source LLMs for Portuguese",
-    "authors": "Corrêa et al.",
-    "year": 2026,
-    "month": 3,
-    "arxiv_id": "2603.03543",
-    "url": "https://arxiv.org/abs/2603.03543",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.6_multilingual",
-    "tags": [
-      "Portuguese",
-      "open"
-    ],
-    "note": "Tucano 2 Cool: better open source LLMs for Portuguese (CPT recipe)."
   },
   {
     "title": "Improving Automatic Summarization of Radiology Reports through Mid-Training of Large Language Models",
@@ -1501,247 +656,13 @@
     "url": "https://arxiv.org/abs/2603.19275",
     "code_url": null,
     "venue": "arXiv",
-    "category": "2.1_general",
+    "category": "capability/general",
     "tags": [
       "domain",
       "medical",
       "mid-training"
     ],
     "note": "Mid-training LLMs for radiology report summarization (domain HQ)."
-  },
-  {
-    "title": "ReMiT: RL-Guided Mid-Training for Iterative LLM Evolution",
-    "authors": "Huang et al.",
-    "year": 2026,
-    "month": 2,
-    "arxiv_id": "2602.03075",
-    "url": "https://arxiv.org/abs/2602.03075",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.4_reasoning",
-    "tags": [
-      "reasoning",
-      "RL",
-      "mid-training"
-    ],
-    "note": "ReMiT: RL-guided mid-training for iterative LLM evolution."
-  },
-  {
-    "title": "Unseen-Codebases-Domain Data Synthesis and Training Based on Code Graphs",
-    "authors": "Ou et al.",
-    "year": 2026,
-    "month": 2,
-    "arxiv_id": "2602.20799",
-    "url": "https://arxiv.org/abs/2602.20799",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.3_code",
-    "tags": [
-      "code",
-      "synthetic",
-      "unseen-repos"
-    ],
-    "note": "Unseen-codebases-domain data synthesis and training based on code graphs."
-  },
-  {
-    "title": "AfriqueLLM: How Data Mixing and Model Architecture Impact Continued Pre-training for African Languages",
-    "authors": "Yu et al.",
-    "year": 2026,
-    "month": 1,
-    "arxiv_id": "2601.06395",
-    "url": "https://arxiv.org/abs/2601.06395",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.6_multilingual",
-    "tags": [
-      "multilingual",
-      "Africa",
-      "mixture"
-    ],
-    "note": "AfriqueLLM: data mixing and architecture impact CPT for African languages."
-  },
-  {
-    "title": "Continual Pretraining on Encrypted Synthetic Data for Privacy-Preserving LLMs",
-    "authors": "Liu et al.",
-    "year": 2026,
-    "month": 1,
-    "arxiv_id": "2601.05635",
-    "url": "https://arxiv.org/abs/2601.05635",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "3_data",
-    "tags": [
-      "privacy",
-      "synthetic",
-      "continual-pretraining"
-    ],
-    "note": "CPT on encrypted synthetic data for privacy-preserving LLMs."
-  },
-  {
-    "title": "ELO: Efficient Layer-Specific Optimization for Continual Pretraining of Multilingual LLMs",
-    "authors": "Yoo et al.",
-    "year": 2026,
-    "month": 1,
-    "arxiv_id": "2601.03648",
-    "url": "https://arxiv.org/abs/2601.03648",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.6_multilingual",
-    "tags": [
-      "multilingual",
-      "continual-pretraining",
-      "efficient"
-    ],
-    "note": "ELO: efficient layer-specific optimization for multilingual CPT."
-  },
-  {
-    "title": "HE-SNR: Uncovering Latent Logic via Entropy for Guiding Mid-Training on SWE-bench",
-    "authors": "Wang et al.",
-    "year": 2026,
-    "month": 1,
-    "arxiv_id": "2601.20255",
-    "url": "https://arxiv.org/abs/2601.20255",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.3_code",
-    "tags": [
-      "code",
-      "SWE",
-      "mid-training"
-    ],
-    "note": "HE-SNR: entropy-guided mid-training on SWE-bench latent logic."
-  },
-  {
-    "title": "How Do Large Language Models Learn Concepts During Continual Pre-Training?",
-    "authors": "Yao et al.",
-    "year": 2026,
-    "month": 1,
-    "arxiv_id": "2601.03570",
-    "url": "https://arxiv.org/abs/2601.03570",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "1_theory",
-    "tags": [
-      "continual-pretraining",
-      "concepts"
-    ],
-    "note": "How LLMs learn concepts during continual pre-training."
-  },
-  {
-    "title": "Learning What to Predict: Downstream-Guided Task Design for Continued Pretraining",
-    "authors": "Ke et al.",
-    "year": 2026,
-    "month": 1,
-    "arxiv_id": "2601.22108",
-    "url": "https://arxiv.org/abs/2601.22108",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "3_data",
-    "tags": [
-      "task-design",
-      "continual-pretraining"
-    ],
-    "note": "Learning what to predict: downstream-guided task design for CPT."
-  },
-  {
-    "title": "Mecellem Models: Turkish Models Trained from Scratch and Continually Pre-trained for the Legal Domain",
-    "authors": "Uğur et al.",
-    "year": 2026,
-    "month": 1,
-    "arxiv_id": "2601.16018",
-    "url": "https://arxiv.org/abs/2601.16018",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.6_multilingual",
-    "tags": [
-      "Turkish",
-      "legal",
-      "continual-pretraining"
-    ],
-    "note": "Mecellem: Turkish legal models trained from scratch and continually pre-trained."
-  },
-  {
-    "title": "MergeMix: Optimizing Mid-Training Data Mixtures via Learnable Model Merging",
-    "authors": "Wang et al.",
-    "year": 2026,
-    "month": 1,
-    "arxiv_id": "2601.17858",
-    "url": "https://arxiv.org/abs/2601.17858",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "3_data",
-    "tags": [
-      "mixture",
-      "mid-training",
-      "merging"
-    ],
-    "note": "MergeMix: optimize mid-training data mixtures via learnable model merging."
-  },
-  {
-    "title": "Qalb: Largest State-of-the-Art Urdu Large Language Model for 230M Speakers with Systematic Continued Pre-training",
-    "authors": "Hassan et al.",
-    "year": 2026,
-    "month": 1,
-    "arxiv_id": "2601.08141",
-    "url": "https://arxiv.org/abs/2601.08141",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.6_multilingual",
-    "tags": [
-      "Urdu",
-      "continual-pretraining"
-    ],
-    "note": "Qalb: Urdu LLM with systematic continual pretraining."
-  },
-  {
-    "title": "Towards robust long-context understanding of large language model via active recap learning",
-    "authors": "Chenyu Hui",
-    "year": 2026,
-    "month": 1,
-    "arxiv_id": "2601.13734",
-    "url": "https://arxiv.org/abs/2601.13734",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.5_longctx",
-    "tags": [
-      "long-context",
-      "recap"
-    ],
-    "note": "Robust long-context understanding via active recap learning."
-  },
-  {
-    "title": "What Does Loss Optimization Actually Teach, If Anything? Knowledge Dynamics in Continual Pre-training of LLMs",
-    "authors": "Mousavi et al.",
-    "year": 2026,
-    "month": 1,
-    "arxiv_id": "2601.03858",
-    "url": "https://arxiv.org/abs/2601.03858",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "1_theory",
-    "tags": [
-      "continual-pretraining",
-      "knowledge-dynamics"
-    ],
-    "note": "Knowledge dynamics under loss optimization in continual pre-training."
-  },
-  {
-    "title": "daVinci-Dev: Agent-native Mid-training for Software Engineering",
-    "authors": "Zeng et al.",
-    "year": 2026,
-    "month": 1,
-    "arxiv_id": "2601.18418",
-    "url": "https://arxiv.org/abs/2601.18418",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.3_code",
-    "tags": [
-      "code",
-      "SWE",
-      "agent-native",
-      "mid-training"
-    ],
-    "note": "daVinci-Dev: agent-native mid-training for software engineering (ctx+env trajectories)."
   },
   {
     "title": "Curió-Edu 7B: Examining Data Selection Impacts in LLM Continued Pretraining",
@@ -1752,29 +673,13 @@
     "url": "https://arxiv.org/abs/2512.12770",
     "code_url": null,
     "venue": "arXiv",
-    "category": "3_data",
+    "category": "capability/general",
     "tags": [
       "data-selection",
       "continual-pretraining",
       "edu"
     ],
     "note": "Curió-Edu 7B: examining data selection impacts in LLM continued pretraining."
-  },
-  {
-    "title": "Efficient Context Scaling with LongCat ZigZag Attention",
-    "authors": "Zhang et al.",
-    "year": 2025,
-    "month": 12,
-    "arxiv_id": "2512.23966",
-    "url": "https://arxiv.org/abs/2512.23966",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.5_longctx",
-    "tags": [
-      "long-context",
-      "attention"
-    ],
-    "note": "LongCat ZigZag Attention for efficient context scaling."
   },
   {
     "title": "Nanbeige4-3B Technical Report: Exploring the Frontier of Small Language Models",
@@ -1785,80 +690,12 @@
     "url": "https://arxiv.org/abs/2512.06266",
     "code_url": null,
     "venue": "arXiv",
-    "category": "2.1_general",
+    "category": "capability/general",
     "tags": [
       "technical-report",
       "small-LM"
     ],
     "note": "Nanbeige4-3B: small LM frontier with mid-training practices."
-  },
-  {
-    "title": "On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models",
-    "authors": "Zhang et al.",
-    "year": 2025,
-    "month": 12,
-    "arxiv_id": "2512.07783",
-    "url": "https://arxiv.org/abs/2512.07783",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "1_theory",
-    "tags": [
-      "mid-training",
-      "RL",
-      "reasoning"
-    ],
-    "note": "Interplay of pre-training, mid-training, and RL on reasoning LMs."
-  },
-  {
-    "title": "Perplexity-Aware Data Scaling Law: Perplexity Landscapes Predict Performance for Continual Pre-training",
-    "authors": "Liu et al.",
-    "year": 2025,
-    "month": 12,
-    "arxiv_id": "2512.21515",
-    "url": "https://arxiv.org/abs/2512.21515",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "1_theory",
-    "tags": [
-      "scaling",
-      "continual-pretraining",
-      "perplexity"
-    ],
-    "note": "Perplexity landscapes predict continual pre-training performance (data scaling law)."
-  },
-  {
-    "title": "Step-DeepResearch Technical Report",
-    "authors": "Hu et al.",
-    "year": 2025,
-    "month": 12,
-    "arxiv_id": "2512.20491",
-    "url": "https://arxiv.org/abs/2512.20491",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.8_agent",
-    "tags": [
-      "agent",
-      "deep-research",
-      "industrial"
-    ],
-    "note": "Step-DeepResearch technical report."
-  },
-  {
-    "title": "The Data Efficiency Frontier of Financial Foundation Models: Scaling Laws from Continued Pretraining",
-    "authors": "Jesse Ponnock",
-    "year": 2025,
-    "month": 12,
-    "arxiv_id": "2512.12384",
-    "url": "https://arxiv.org/abs/2512.12384",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "1_theory",
-    "tags": [
-      "scaling",
-      "finance",
-      "continual-pretraining"
-    ],
-    "note": "Data efficiency frontier of financial foundation models: scaling laws from CPT."
   },
   {
     "title": "ManufactuBERT: Efficient Continual Pretraining for Manufacturing",
@@ -1869,7 +706,7 @@
     "url": "https://arxiv.org/abs/2511.05135",
     "code_url": null,
     "venue": "arXiv",
-    "category": "3_data",
+    "category": "capability/general",
     "tags": [
       "manufacturing",
       "continual-pretraining"
@@ -1885,7 +722,7 @@
     "url": "https://arxiv.org/abs/2511.02451",
     "code_url": null,
     "venue": "arXiv",
-    "category": "3_data",
+    "category": "capability/general",
     "tags": [
       "merging",
       "continual-pretraining",
@@ -1902,46 +739,13 @@
     "url": "https://arxiv.org/abs/2511.14245",
     "code_url": null,
     "venue": "arXiv",
-    "category": "3_data",
+    "category": "capability/general",
     "tags": [
       "music",
       "domain",
       "continual-pretraining"
     ],
     "note": "MuCPT: music-related NL model continued pretraining (LLM text domain)."
-  },
-  {
-    "title": "A Survey on LLM Mid-Training",
-    "authors": "Tu et al.",
-    "year": 2025,
-    "month": 10,
-    "arxiv_id": "2510.23081",
-    "url": "https://arxiv.org/abs/2510.23081",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "0_surveys",
-    "tags": [
-      "survey",
-      "taxonomy"
-    ],
-    "note": "Systematic survey defining LLM mid-training; data, LR, architecture, objective-driven implementations."
-  },
-  {
-    "title": "ADEPT: Continual Pretraining via Adaptive Expansion and Dynamic Decoupled Tuning",
-    "authors": "Zhang et al.",
-    "year": 2025,
-    "month": 10,
-    "arxiv_id": "2510.10071",
-    "url": "https://arxiv.org/abs/2510.10071",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "4_optimization",
-    "tags": [
-      "continual-pretraining",
-      "architecture",
-      "expansion"
-    ],
-    "note": "ADEPT: CPT via adaptive expansion and dynamic decoupled tuning."
   },
   {
     "title": "DACP: Domain-Adaptive Continual Pre-Training of Large Language Models for Phone Conversation Summarization",
@@ -1952,203 +756,13 @@
     "url": "https://arxiv.org/abs/2510.05858",
     "code_url": null,
     "venue": "arXiv",
-    "category": "3_data",
+    "category": "capability/general",
     "tags": [
       "domain",
       "conversation",
       "continual-pretraining"
     ],
     "note": "DACP: domain-adaptive CPT for phone conversation summarization."
-  },
-  {
-    "title": "Efficient Training of Robust Traditional Chinese LLaMA-1B on a Single Consumer GPU: Continual Pre-training, SFT, and DPO",
-    "authors": "Chih et al.",
-    "year": 2025,
-    "month": 10,
-    "arxiv_id": "2510.01616",
-    "url": "https://arxiv.org/abs/2510.01616",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.6_multilingual",
-    "tags": [
-      "Chinese",
-      "continual-pretraining",
-      "efficient"
-    ],
-    "note": "Efficient training of robust Traditional Chinese LLaMA-1B via CPT on consumer GPU."
-  },
-  {
-    "title": "IKnow: Instruction-Knowledge-Aware Continual Pretraining for Effective Domain Adaptation",
-    "authors": "Zhang et al.",
-    "year": 2025,
-    "month": 10,
-    "arxiv_id": "2510.20377",
-    "url": "https://arxiv.org/abs/2510.20377",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.7_alignment",
-    "tags": [
-      "instruction",
-      "knowledge",
-      "continual-pretraining"
-    ],
-    "note": "IKnow: instruction-knowledge-aware CPT for domain adaptation."
-  },
-  {
-    "title": "Layer of Truth: Probing Belief Shifts under Continual Pre-Training Poisoning",
-    "authors": "Churina et al.",
-    "year": 2025,
-    "month": 10,
-    "arxiv_id": "2510.26829",
-    "url": "https://arxiv.org/abs/2510.26829",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "8_benchmarks",
-    "tags": [
-      "evaluation",
-      "poisoning",
-      "continual-pretraining"
-    ],
-    "note": "Layer of Truth: probing belief shifts under CPT poisoning."
-  },
-  {
-    "title": "Mid-Training of Large Language Models: A Survey",
-    "authors": "Mo et al.",
-    "year": 2025,
-    "month": 10,
-    "arxiv_id": "2510.06826",
-    "url": "https://arxiv.org/abs/2510.06826",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "0_surveys",
-    "tags": [
-      "survey",
-      "annealing",
-      "taxonomy"
-    ],
-    "note": "Annealing-style mid-training survey: data distributions, LR schedulers, long-context theory."
-  },
-  {
-    "title": "Midtraining Bridges Pretraining and Posttraining Distributions",
-    "authors": "Liu et al.",
-    "year": 2025,
-    "month": 10,
-    "arxiv_id": "2510.14865",
-    "url": "https://arxiv.org/abs/2510.14865",
-    "code_url": "https://github.com/nightingal3/midtraining",
-    "venue": "arXiv",
-    "category": "1_theory",
-    "tags": [
-      "distribution-bridging",
-      "mixture",
-      "plasticity"
-    ],
-    "note": "Controlled experiments: midtraining mixes bridge pre- and post-training distributions; timing & weights matter."
-  },
-  {
-    "title": "Tongyi DeepResearch Technical Report",
-    "authors": "Tongyi DeepResearch Team",
-    "year": 2025,
-    "month": 10,
-    "arxiv_id": "2510.24701",
-    "url": "https://arxiv.org/abs/2510.24701",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.8_agent",
-    "tags": [
-      "agent",
-      "deep-research",
-      "mid-training",
-      "industrial"
-    ],
-    "note": "Tongyi DeepResearch: system report with agentic mid-training grounded in AgentFounder."
-  },
-  {
-    "title": "ToolExpander: Extending the Frontiers of Tool-Using Reinforcement Learning to Weak LLMs",
-    "authors": "Chen et al.",
-    "year": 2025,
-    "month": 10,
-    "arxiv_id": "2510.07737",
-    "url": "https://arxiv.org/abs/2510.07737",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "9_boundary",
-    "tags": [
-      "boundary",
-      "tool-use",
-      "RL"
-    ],
-    "note": "ToolExpander: tool-using RL for weak LLMs (post-training; boundary to tool mid)."
-  },
-  {
-    "title": "CWM: An Open-Weights LLM for Research on Code Generation with World Models",
-    "authors": "FAIR CodeGen team",
-    "year": 2025,
-    "month": 9,
-    "arxiv_id": "2510.02387",
-    "url": "https://arxiv.org/abs/2510.02387",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.3_code",
-    "tags": [
-      "code",
-      "world-model",
-      "open-weights"
-    ],
-    "note": "CWM: open-weights LLM for code generation with world models; mid-style training."
-  },
-  {
-    "title": "Front-Loading Reasoning: The Synergy between Pretraining and Post-Training Data",
-    "authors": "Akter et al.",
-    "year": 2025,
-    "month": 9,
-    "arxiv_id": "2510.03264",
-    "url": "https://arxiv.org/abs/2510.03264",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.4_reasoning",
-    "tags": [
-      "reasoning",
-      "data-timing",
-      "pretrain-vs-post"
-    ],
-    "note": "Front-Loading Reasoning: synergy between pretraining and post-training data."
-  },
-  {
-    "title": "Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents",
-    "authors": "Yang et al.",
-    "year": 2025,
-    "month": 9,
-    "arxiv_id": "2509.23045",
-    "url": "https://arxiv.org/abs/2509.23045",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.3_code",
-    "tags": [
-      "code",
-      "SWE",
-      "mid-training",
-      "agent"
-    ],
-    "note": "Kimi-Dev: ~150B SWE mid-training as skill prior for SWE-agents."
-  },
-  {
-    "title": "Learning to Reason as Action Abstractions with Scalable Mid-Training RL",
-    "authors": "Zhang et al.",
-    "year": 2025,
-    "month": 9,
-    "arxiv_id": "2509.25810",
-    "url": "https://arxiv.org/abs/2509.25810",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.4_reasoning",
-    "tags": [
-      "reasoning",
-      "RL",
-      "mid-training",
-      "abstractions"
-    ],
-    "note": "Learning to reason as action abstractions with scalable mid-training RL."
   },
   {
     "title": "MachineLearningLM: Scaling Many-shot In-context Learning via Continued Pretraining",
@@ -2159,99 +773,12 @@
     "url": "https://arxiv.org/abs/2509.06806",
     "code_url": null,
     "venue": "arXiv",
-    "category": "2.1_general",
+    "category": "capability/general",
     "tags": [
       "ICL",
       "continual-pretraining"
     ],
     "note": "MachineLearningLM: scaling many-shot ICL via continued pretraining."
-  },
-  {
-    "title": "Positional Encoding via Token-Aware Phase Attention",
-    "authors": "Wang et al.",
-    "year": 2025,
-    "month": 9,
-    "arxiv_id": "2509.12635",
-    "url": "https://arxiv.org/abs/2509.12635",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.5_longctx",
-    "tags": [
-      "positional-encoding",
-      "attention"
-    ],
-    "note": "Positional Encoding via Token-Aware Phase Attention (extension-related)."
-  },
-  {
-    "title": "Reinforcement Mid-Training",
-    "authors": "Tian et al.",
-    "year": 2025,
-    "month": 9,
-    "arxiv_id": "2509.24375",
-    "url": "https://arxiv.org/abs/2509.24375",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.4_reasoning",
-    "tags": [
-      "reasoning",
-      "RL",
-      "mid-training"
-    ],
-    "note": "Reinforcement Mid-Training."
-  },
-  {
-    "title": "Scaling Agents via Continual Pre-training",
-    "authors": "Su et al.",
-    "year": 2025,
-    "month": 9,
-    "arxiv_id": "2509.13310",
-    "url": "https://arxiv.org/abs/2509.13310",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.8_agent",
-    "tags": [
-      "agent",
-      "CPT",
-      "deep-research",
-      "synthetic"
-    ],
-    "note": "AgentFounder: Scaling Agents via Continual Pre-training (Agentic CPT)."
-  },
-  {
-    "title": "When Long Helps Short: How Context Length in Supervised Fine-tuning Affects Behavior of Large Language Models",
-    "authors": "Zheng et al.",
-    "year": 2025,
-    "month": 9,
-    "arxiv_id": "2509.18762",
-    "url": "https://arxiv.org/abs/2509.18762",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "5_bridge",
-    "tags": [
-      "SFT",
-      "long-context",
-      "behavior"
-    ],
-    "note": "When long helps short: how SFT context length affects LLM behavior (mid/SFT interplay)."
-  },
-  {
-    "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
-    "authors": "Zeng et al.",
-    "year": 2025,
-    "month": 8,
-    "arxiv_id": "2508.06471",
-    "url": "https://arxiv.org/abs/2508.06471",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.8_agent",
-    "tags": [
-      "agent",
-      "code",
-      "reasoning",
-      "mid-training",
-      "industrial"
-    ],
-    "note": "GLM-4.5: explicit Mid-Training section (repo code, synthetic reasoning, agent trajectories, 128K)."
   },
   {
     "title": "Large-Scale Diverse Synthesis for Mid-Training",
@@ -2262,148 +789,13 @@
     "url": "https://arxiv.org/abs/2508.01326",
     "code_url": null,
     "venue": "arXiv",
-    "category": "2.1_general",
+    "category": "capability/general",
     "tags": [
       "synthetic",
       "mid-training",
       "data"
     ],
     "note": "Large-Scale Diverse Synthesis for Mid-Training."
-  },
-  {
-    "title": "Revisiting Replay and Gradient Alignment for Continual Pre-Training of Large Language Models",
-    "authors": "Abbes et al.",
-    "year": 2025,
-    "month": 8,
-    "arxiv_id": "2508.01908",
-    "url": "https://arxiv.org/abs/2508.01908",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "1_theory",
-    "tags": [
-      "replay",
-      "continual-pretraining",
-      "gradients"
-    ],
-    "note": "Revisiting replay and gradient alignment for continual pre-training of LLMs."
-  },
-  {
-    "title": "Data Mixing Agent: Learning to Re-weight Domains for Continual Pre-training",
-    "authors": "Yang et al.",
-    "year": 2025,
-    "month": 7,
-    "arxiv_id": "2507.15640",
-    "url": "https://arxiv.org/abs/2507.15640",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "3_data",
-    "tags": [
-      "mixture",
-      "continual-pretraining",
-      "agent"
-    ],
-    "note": "Data Mixing Agent: learning to re-weight domains for continual pre-training."
-  },
-  {
-    "title": "From Curated Data to Scalable Models: Continual Pre-training of Dense and MoE Large Language Models for Tibetan",
-    "authors": "Yang et al.",
-    "year": 2025,
-    "month": 7,
-    "arxiv_id": "2507.09205",
-    "url": "https://arxiv.org/abs/2507.09205",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "3_data",
-    "tags": [
-      "continual-pretraining",
-      "MoE",
-      "curated-data"
-    ],
-    "note": "From curated data to scalable models: CPT of dense and MoE LLMs."
-  },
-  {
-    "title": "Innovator: Scientific Continued Pretraining with Fine-grained MoE Upcycling",
-    "authors": "Liao et al.",
-    "year": 2025,
-    "month": 7,
-    "arxiv_id": "2507.18671",
-    "url": "https://arxiv.org/abs/2507.18671",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.2_math",
-    "tags": [
-      "STEM",
-      "MoE",
-      "continual-pretraining"
-    ],
-    "note": "Innovator: scientific continued pretraining with fine-grained MoE upcycling."
-  },
-  {
-    "title": "Kimi K2: Open Agentic Intelligence",
-    "authors": "Kimi Team",
-    "year": 2025,
-    "month": 7,
-    "arxiv_id": "2507.20534",
-    "url": "https://arxiv.org/abs/2507.20534",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.1_general",
-    "tags": [
-      "annealing",
-      "YaRN",
-      "industrial"
-    ],
-    "note": "Kimi K2: annealing + YaRN after 15.5T; agent synthesis mainly post-training (opaque mid/SFT)."
-  },
-  {
-    "title": "Mpemba Effect in Large-Language Model Training Dynamics: A Minimal Analysis of the Valley-River model",
-    "authors": "Liu et al.",
-    "year": 2025,
-    "month": 7,
-    "arxiv_id": "2507.04206",
-    "url": "https://arxiv.org/abs/2507.04206",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "1_theory",
-    "tags": [
-      "LR-schedule",
-      "dynamics",
-      "Mpemba"
-    ],
-    "note": "Mpemba Effect in LLM training dynamics: valley-river model analysis."
-  },
-  {
-    "title": "Read the Docs Before Rewriting: Equip Rewriter with Domain Knowledge via Continual Pre-training",
-    "authors": "Wang et al.",
-    "year": 2025,
-    "month": 7,
-    "arxiv_id": "2507.00477",
-    "url": "https://arxiv.org/abs/2507.00477",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "3_data",
-    "tags": [
-      "domain",
-      "continual-pretraining",
-      "rewriter"
-    ],
-    "note": "Read the Docs Before Rewriting: equip rewriter with domain knowledge via CPT."
-  },
-  {
-    "title": "Through the River: Understanding the Benefit of Schedule-Free Methods for Language Model Training",
-    "authors": "Song et al.",
-    "year": 2025,
-    "month": 7,
-    "arxiv_id": "2507.09846",
-    "url": "https://arxiv.org/abs/2507.09846",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "4_optimization",
-    "tags": [
-      "schedule-free",
-      "LR"
-    ],
-    "note": "Through the River: benefit of schedule-free methods for LM training."
   },
   {
     "title": "ixi-GEN: Efficient Industrial sLLMs through Domain Adaptive Continual Pretraining",
@@ -2414,7 +806,7 @@
     "url": "https://arxiv.org/abs/2507.06795",
     "code_url": null,
     "venue": "arXiv",
-    "category": "3_data",
+    "category": "capability/general",
     "tags": [
       "industrial",
       "domain",
@@ -2423,20 +815,38 @@
     "note": "ixi-GEN: efficient industrial sLLMs through domain-adaptive CPT."
   },
   {
-    "title": "Beyond Random Sampling: Efficient Language Model Pretraining via Curriculum Learning",
-    "authors": "Zhang et al.",
+    "title": "Kimi K2: Open Agentic Intelligence",
+    "authors": "Kimi Team",
     "year": 2025,
-    "month": 6,
-    "arxiv_id": "2506.11300",
-    "url": "https://arxiv.org/abs/2506.11300",
+    "month": 7,
+    "arxiv_id": "2507.20534",
+    "url": "https://arxiv.org/abs/2507.20534",
     "code_url": null,
     "venue": "arXiv",
-    "category": "3_data",
+    "category": "capability/general",
     "tags": [
-      "curriculum",
-      "pretraining"
+      "annealing",
+      "YaRN",
+      "industrial"
     ],
-    "note": "Beyond Random Sampling: curriculum learning for efficient LM pretraining (relevant to mid curricula)."
+    "note": "Kimi K2: annealing + YaRN after 15.5T; agent synthesis mainly post-training (opaque mid/SFT)."
+  },
+  {
+    "title": "Read the Docs Before Rewriting: Equip Rewriter with Domain Knowledge via Continual Pre-training",
+    "authors": "Wang et al.",
+    "year": 2025,
+    "month": 7,
+    "arxiv_id": "2507.00477",
+    "url": "https://arxiv.org/abs/2507.00477",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/general",
+    "tags": [
+      "domain",
+      "continual-pretraining",
+      "rewriter"
+    ],
+    "note": "Read the Docs Before Rewriting: equip rewriter with domain knowledge via CPT."
   },
   {
     "title": "BioClinical ModernBERT: A State-of-the-Art Long-Context Encoder for Biomedical and Clinical NLP",
@@ -2447,113 +857,13 @@
     "url": "https://arxiv.org/abs/2506.10896",
     "code_url": null,
     "venue": "arXiv",
-    "category": "2.1_general",
+    "category": "capability/general",
     "tags": [
       "biomedical",
       "long-context",
       "encoder"
     ],
     "note": "BioClinical ModernBERT: long-context encoder via domain CPT."
-  },
-  {
-    "title": "OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling",
-    "authors": "Wang et al.",
-    "year": 2025,
-    "month": 6,
-    "arxiv_id": "2506.20512",
-    "url": "https://arxiv.org/abs/2506.20512",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.4_reasoning",
-    "tags": [
-      "reasoning",
-      "RL",
-      "plasticity",
-      "mid-training"
-    ],
-    "note": "OctoThinker: mid-training incentivizes RL scaling; Stable-then-Decay; CoT form matters."
-  },
-  {
-    "title": "Emergent Abilities of Large Language Models under Continued Pretraining for Language Adaptation",
-    "authors": "Elhady et al.",
-    "year": 2025,
-    "month": 5,
-    "arxiv_id": "2506.00288",
-    "url": "https://arxiv.org/abs/2506.00288",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "1_theory",
-    "tags": [
-      "continual-pretraining",
-      "multilingual",
-      "emergent"
-    ],
-    "note": "Emergent abilities under continued pretraining for language adaptation."
-  },
-  {
-    "title": "Full-Parameter Continual Pretraining of Gemma2: Insights into Fluency and Domain Knowledge",
-    "authors": "Šliogeris et al.",
-    "year": 2025,
-    "month": 5,
-    "arxiv_id": "2505.05946",
-    "url": "https://arxiv.org/abs/2505.05946",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.6_multilingual",
-    "tags": [
-      "continual-pretraining",
-      "fluency"
-    ],
-    "note": "Full-parameter continual pretraining of Gemma2: fluency and domain knowledge."
-  },
-  {
-    "title": "Improving Continual Pre-training Through Seamless Data Packing",
-    "authors": "Yin et al.",
-    "year": 2025,
-    "month": 5,
-    "arxiv_id": "2505.22018",
-    "url": "https://arxiv.org/abs/2505.22018",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "3_data",
-    "tags": [
-      "packing",
-      "continual-pretraining"
-    ],
-    "note": "Improving continual pre-training through seamless data packing."
-  },
-  {
-    "title": "Learning Dynamics in Continual Pre-Training for Large Language Models",
-    "authors": "Wang et al.",
-    "year": 2025,
-    "month": 5,
-    "arxiv_id": "2505.07796",
-    "url": "https://arxiv.org/abs/2505.07796",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "1_theory",
-    "tags": [
-      "continual-pretraining",
-      "learning-dynamics"
-    ],
-    "note": "Learning dynamics analysis of continual pre-training for LLMs."
-  },
-  {
-    "title": "Mining Hidden Thoughts from Texts: Evaluating Continual Pretraining with Synthetic Data for LLM Reasoning",
-    "authors": "Ishibashi et al.",
-    "year": 2025,
-    "month": 5,
-    "arxiv_id": "2505.10182",
-    "url": "https://arxiv.org/abs/2505.10182",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.4_reasoning",
-    "tags": [
-      "reasoning",
-      "synthetic",
-      "continual-pretraining"
-    ],
-    "note": "Mining hidden thoughts from texts: CPT with synthetic data for LLM reasoning."
   },
   {
     "title": "Qwen3 Technical Report",
@@ -2564,7 +874,7 @@
     "url": "https://arxiv.org/abs/2505.09388",
     "code_url": null,
     "venue": "arXiv",
-    "category": "2.1_general",
+    "category": "capability/general",
     "tags": [
       "reasoning-stage",
       "HQ-data",
@@ -2582,47 +892,13 @@
     "url": "https://arxiv.org/abs/2505.04723",
     "code_url": null,
     "venue": "arXiv",
-    "category": "6_industrial",
+    "category": "capability/general",
     "tags": [
       "industrial",
       "continual-pretraining",
       "enterprise"
     ],
-    "note": "SOAEsV2: full-pipeline optimization for SOE LLMs via CPT, SFT, RLHF."
-  },
-  {
-    "title": "Breaking the Data Barrier -- Building GUI Agents Through Task Generalization",
-    "authors": "Zhang et al.",
-    "year": 2025,
-    "month": 4,
-    "arxiv_id": "2504.10127",
-    "url": "https://arxiv.org/abs/2504.10127",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "9_boundary",
-    "tags": [
-      "boundary",
-      "GUI",
-      "generalization"
-    ],
-    "note": "Breaking the data barrier: building GUI agents through task generalization (SFT-heavy)."
-  },
-  {
-    "title": "Continual Pre-Training is (not) What You Need in Domain Adaption",
-    "authors": "Chen et al.",
-    "year": 2025,
-    "month": 4,
-    "arxiv_id": "2504.13603",
-    "url": "https://arxiv.org/abs/2504.13603",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "5_bridge",
-    "tags": [
-      "continual-pretraining",
-      "domain-adapt",
-      "critique"
-    ],
-    "note": "Continual Pre-Training is (not) What You Need in Domain Adaption."
+    "note": "SOAEsV2: full-pipeline optimization for SOE LLMs via CPT, SFT, RLHF. [tech report; CPT as mid-stage in enterprise pipeline]"
   },
   {
     "title": "Domain-Adaptive Continued Pre-Training of Small Language Models",
@@ -2633,63 +909,13 @@
     "url": "https://arxiv.org/abs/2504.09687",
     "code_url": null,
     "venue": "arXiv",
-    "category": "3_data",
+    "category": "capability/general",
     "tags": [
       "domain",
       "continual-pretraining",
       "small-LM"
     ],
     "note": "Domain-adaptive continued pre-training of small language models."
-  },
-  {
-    "title": "Efficient Domain-adaptive Continual Pretraining for the Process Industry in the German Language",
-    "authors": "Zhukova et al.",
-    "year": 2025,
-    "month": 4,
-    "arxiv_id": "2504.19856",
-    "url": "https://arxiv.org/abs/2504.19856",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "3_data",
-    "tags": [
-      "German",
-      "process-industry",
-      "continual-pretraining"
-    ],
-    "note": "Efficient domain-adaptive CPT for process industry in German."
-  },
-  {
-    "title": "From 128K to 4M: Efficient Training of Ultra-Long Context Large Language Models",
-    "authors": "Xu et al.",
-    "year": 2025,
-    "month": 4,
-    "arxiv_id": "2504.06214",
-    "url": "https://arxiv.org/abs/2504.06214",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.5_longctx",
-    "tags": [
-      "long-context",
-      "ultra-long"
-    ],
-    "note": "From 128K to 4M: efficient training of ultra-long context LLMs."
-  },
-  {
-    "title": "Knowledge-Instruct: Effective Continual Pre-training from Limited Data using Instructions",
-    "authors": "Ovadia et al.",
-    "year": 2025,
-    "month": 4,
-    "arxiv_id": "2504.05571",
-    "url": "https://arxiv.org/abs/2504.05571",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.7_alignment",
-    "tags": [
-      "instruction",
-      "continual-pretraining",
-      "knowledge"
-    ],
-    "note": "Knowledge-Instruct: effective CPT from limited data using instructions."
   },
   {
     "title": "Large Language Model Empowered Recommendation Meets All-domain Continual Pre-Training",
@@ -2700,179 +926,12 @@
     "url": "https://arxiv.org/abs/2504.08949",
     "code_url": null,
     "venue": "arXiv",
-    "category": "3_data",
+    "category": "capability/general",
     "tags": [
       "recommendation",
       "continual-pretraining"
     ],
     "note": "All-domain continual pre-training for LLM-empowered recommendation."
-  },
-  {
-    "title": "MegaMath: Pushing the Limits of Open Math Corpora",
-    "authors": "Zhou et al.",
-    "year": 2025,
-    "month": 4,
-    "arxiv_id": "2504.02807",
-    "url": "https://arxiv.org/abs/2504.02807",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "7_datasets",
-    "tags": [
-      "math",
-      "synthetic",
-      "dataset"
-    ],
-    "note": "MegaMath: large open math corpus for mid/continued pretraining."
-  },
-  {
-    "title": "Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language Models in Math",
-    "authors": "Xu et al.",
-    "year": 2025,
-    "month": 4,
-    "arxiv_id": "2504.21233",
-    "url": "https://arxiv.org/abs/2504.21233",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.2_math",
-    "tags": [
-      "math",
-      "reasoning",
-      "small-LM"
-    ],
-    "note": "Phi-4-Mini-Reasoning: math reasoning via continued training stack."
-  },
-  {
-    "title": "Rethinking Multilingual Continual Pretraining: Data Mixing for Adapting LLMs Across Languages and Resources",
-    "authors": "Li et al.",
-    "year": 2025,
-    "month": 4,
-    "arxiv_id": "2504.04152",
-    "url": "https://arxiv.org/abs/2504.04152",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.6_multilingual",
-    "tags": [
-      "multilingual",
-      "continual-pretraining",
-      "mixture"
-    ],
-    "note": "Rethinking multilingual CPT: data mixing for adapting LLMs across languages."
-  },
-  {
-    "title": "Stabilizing Reasoning in Medical LLMs with Continued Pretraining and Reasoning Preference Optimization",
-    "authors": "Kawakami et al.",
-    "year": 2025,
-    "month": 4,
-    "arxiv_id": "2504.18080",
-    "url": "https://arxiv.org/abs/2504.18080",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.2_math",
-    "tags": [
-      "medical",
-      "reasoning",
-      "continual-pretraining"
-    ],
-    "note": "Stabilizing medical LLM reasoning with continued pretraining + RPO."
-  },
-  {
-    "title": "Beyond Cosine Decay: On the effectiveness of Infinite Learning Rate Schedule for Continual Pre-training",
-    "authors": "Singh et al.",
-    "year": 2025,
-    "month": 3,
-    "arxiv_id": "2503.02844",
-    "url": "https://arxiv.org/abs/2503.02844",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "1_theory",
-    "tags": [
-      "LR-schedule",
-      "continual-pretraining"
-    ],
-    "note": "Infinite LR schedule vs cosine for continual pre-training."
-  },
-  {
-    "title": "Continual Pre-training of MoEs: How robust is your router?",
-    "authors": "Thérien et al.",
-    "year": 2025,
-    "month": 3,
-    "arxiv_id": "2503.05029",
-    "url": "https://arxiv.org/abs/2503.05029",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "4_optimization",
-    "tags": [
-      "MoE",
-      "continual-pretraining",
-      "router"
-    ],
-    "note": "Continual pre-training of MoEs: how robust is your router?"
-  },
-  {
-    "title": "Hephaestus: Improving Fundamental Agent Capabilities of Large Language Models through Continual Pre-Training",
-    "authors": "Zhuang et al.",
-    "year": 2025,
-    "month": 2,
-    "arxiv_id": "2502.06589",
-    "url": "https://arxiv.org/abs/2502.06589",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.8_agent",
-    "tags": [
-      "agent",
-      "continual-pretraining"
-    ],
-    "note": "Hephaestus: improving fundamental agent capabilities via continual pre-training."
-  },
-  {
-    "title": "How Do LLMs Acquire New Knowledge? A Knowledge Circuits Perspective on Continual Pre-Training",
-    "authors": "Ou et al.",
-    "year": 2025,
-    "month": 2,
-    "arxiv_id": "2502.11196",
-    "url": "https://arxiv.org/abs/2502.11196",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "1_theory",
-    "tags": [
-      "continual-pretraining",
-      "knowledge",
-      "circuits"
-    ],
-    "note": "Knowledge-circuits view of how LLMs acquire knowledge in continual pre-training."
-  },
-  {
-    "title": "LIFT: A Novel Framework for Enhancing Long-Context Understanding of LLMs via Long Input Fine-Tuning",
-    "authors": "Mao et al.",
-    "year": 2025,
-    "month": 2,
-    "arxiv_id": "2502.14644",
-    "url": "https://arxiv.org/abs/2502.14644",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.5_longctx",
-    "tags": [
-      "long-context",
-      "fine-tuning"
-    ],
-    "note": "LIFT: enhancing long-context understanding via long input fine-tuning (near mid/extension)."
-  },
-  {
-    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
-    "authors": "DeepSeek-AI",
-    "year": 2025,
-    "month": 1,
-    "arxiv_id": "2501.12948",
-    "url": "https://arxiv.org/abs/2501.12948",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.4_reasoning",
-    "tags": [
-      "RLVR",
-      "reasoning",
-      "downstream"
-    ],
-    "note": "DeepSeek-R1: RLVR paradigm often used as downstream of reasoning mid-training."
   },
   {
     "title": "Learning Beyond the Surface: How Far Can Continual Pre-Training with LoRA Enhance LLMs' Domain-Specific Insight Learning?",
@@ -2883,12 +942,12 @@
     "url": "https://arxiv.org/abs/2501.17840",
     "code_url": null,
     "venue": "arXiv",
-    "category": "4_optimization",
+    "category": "capability/general",
     "tags": [
       "LoRA",
       "continual-pretraining"
     ],
-    "note": "How far can CPT with LoRA enhance domain-specific LLM ability."
+    "note": "How far can CPT with LoRA enhance domain-specific LLM ability. [LoRA CPT method; filed under general domain capability]"
   },
   {
     "title": "2 OLMo 2 Furious",
@@ -2899,29 +958,13 @@
     "url": "https://arxiv.org/abs/2501.00656",
     "code_url": "https://github.com/allenai/OLMo",
     "venue": "arXiv",
-    "category": "2.1_general",
+    "category": "capability/general",
     "tags": [
       "Dolmino",
       "annealing",
       "open-recipe"
     ],
     "note": "OLMo 2: public mid-training mixture (**Dolmino**) and annealing recipe."
-  },
-  {
-    "title": "Breaking the Stage Barrier: A Novel Single-Stage Approach to Long Context Extension for Large Language Models",
-    "authors": "Lian et al.",
-    "year": 2024,
-    "month": 12,
-    "arxiv_id": "2412.07171",
-    "url": "https://arxiv.org/abs/2412.07171",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.5_longctx",
-    "tags": [
-      "long-context",
-      "single-stage"
-    ],
-    "note": "Breaking the stage barrier: single-stage long context extension."
   },
   {
     "title": "CPRM: A LLM-based Continual Pre-training Framework for Relevance Modeling in Commercial Search",
@@ -2932,7 +975,7 @@
     "url": "https://arxiv.org/abs/2412.01269",
     "code_url": null,
     "venue": "arXiv",
-    "category": "3_data",
+    "category": "capability/general",
     "tags": [
       "search",
       "continual-pretraining"
@@ -2948,30 +991,13 @@
     "url": "https://arxiv.org/abs/2412.19437",
     "code_url": null,
     "venue": "arXiv",
-    "category": "2.1_general",
+    "category": "capability/general",
     "tags": [
       "context-extension",
       "industrial",
       "YaRN"
     ],
     "note": "DeepSeek-V3: separate context-extension stage after main pretraining."
-  },
-  {
-    "title": "Efficient Continual Pre-training of LLMs for Low-resource Languages",
-    "authors": "Nag et al.",
-    "year": 2024,
-    "month": 12,
-    "arxiv_id": "2412.10244",
-    "url": "https://arxiv.org/abs/2412.10244",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.6_multilingual",
-    "tags": [
-      "multilingual",
-      "continual-pretraining",
-      "efficient"
-    ],
-    "note": "Efficient continual pre-training of LLMs for low-resource languages."
   },
   {
     "title": "Qwen2.5 Technical Report",
@@ -2982,7 +1008,7 @@
     "url": "https://arxiv.org/abs/2412.15115",
     "code_url": null,
     "venue": "arXiv",
-    "category": "2.1_general",
+    "category": "capability/general",
     "tags": [
       "HQ-data",
       "long-context",
@@ -2999,7 +1025,7 @@
     "url": "https://arxiv.org/abs/2412.19638",
     "code_url": null,
     "venue": "arXiv",
-    "category": "2.1_general",
+    "category": "capability/general",
     "tags": [
       "technical-report",
       "annealing"
@@ -3015,7 +1041,7 @@
     "url": "https://arxiv.org/abs/2412.17743",
     "code_url": null,
     "venue": "arXiv",
-    "category": "2.1_general",
+    "category": "capability/general",
     "tags": [
       "data-efficient",
       "annealing"
@@ -3023,38 +1049,634 @@
     "note": "YuLan-Mini: open data-efficient LM with mid-style training practices."
   },
   {
-    "title": "Velocitune: A Velocity-based Dynamic Domain Reweighting Method for Continual Pre-training",
-    "authors": "Luo et al.",
+    "title": "Falcon2-11B Technical Report",
+    "authors": "Malartic et al.",
     "year": 2024,
-    "month": 11,
-    "arxiv_id": "2411.14318",
-    "url": "https://arxiv.org/abs/2411.14318",
+    "month": 7,
+    "arxiv_id": "2407.14885",
+    "url": "https://arxiv.org/abs/2407.14885",
     "code_url": null,
     "venue": "arXiv",
-    "category": "3_data",
+    "category": "capability/general",
     "tags": [
-      "mixture",
-      "continual-pretraining",
-      "reweighting"
+      "industrial",
+      "Falcon"
     ],
-    "note": "Velocitune: velocity-based dynamic domain reweighting for CPT."
+    "note": "Falcon2-11B technical report. [tech report]"
   },
   {
-    "title": "Adapting Multilingual LLMs to Low-Resource Languages using Continued Pre-training and Synthetic Corpus",
-    "authors": "Joshi et al.",
+    "title": "The Llama 3 Herd of Models",
+    "authors": "Grattafiori et al.",
     "year": 2024,
-    "month": 10,
-    "arxiv_id": "2410.14815",
-    "url": "https://arxiv.org/abs/2410.14815",
+    "month": 7,
+    "arxiv_id": "2407.21783",
+    "url": "https://arxiv.org/abs/2407.21783",
     "code_url": null,
     "venue": "arXiv",
-    "category": "2.6_multilingual",
+    "category": "capability/general",
     "tags": [
-      "multilingual",
+      "annealing",
+      "HQ-data",
+      "long-context",
+      "industrial"
+    ],
+    "note": "Llama 3: industrial annealing with quality upsampling; separate long-context stage."
+  },
+  {
+    "title": "Zamba: A Compact 7B SSM Hybrid Model",
+    "authors": "Glorioso et al.",
+    "year": 2024,
+    "month": 5,
+    "arxiv_id": "2405.16712",
+    "url": "https://arxiv.org/abs/2405.16712",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/general",
+    "tags": [
+      "SSM",
+      "hybrid"
+    ],
+    "note": "Zamba: compact 7B SSM hybrid model (training recipe includes annealing-like stages). [tech report; annealing-like stages]"
+  },
+  {
+    "title": "MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies",
+    "authors": "Hu et al.",
+    "year": 2024,
+    "month": 4,
+    "arxiv_id": "2404.06395",
+    "url": "https://arxiv.org/abs/2404.06395",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/general",
+    "tags": [
+      "WSD",
+      "annealing",
+      "HQ-data"
+    ],
+    "note": "MiniCPM: WSD schedule; high-quality data in decay/annealing stage."
+  },
+  {
+    "title": "Safety Mid-Training: Internalizing LLM Safety as a Foundational Capability",
+    "authors": "Zhao et al.",
+    "year": 2026,
+    "month": 10,
+    "arxiv_id": "2610.26809",
+    "url": "https://arxiv.org/abs/2610.26809",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/instruction-alignment",
+    "tags": [
+      "safety",
+      "mid-training"
+    ],
+    "note": "Safety Mid-Training: internalizing LLM safety as a foundational capability."
+  },
+  {
+    "title": "Inoculation Midtraining with Learned Neologisms",
+    "authors": "O'Brien et al.",
+    "year": 2026,
+    "month": 9,
+    "arxiv_id": "2609.15886",
+    "url": "https://arxiv.org/abs/2609.15886",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/instruction-alignment",
+    "tags": [
+      "inoculation",
+      "midtraining",
+      "neologisms"
+    ],
+    "note": "Inoculation midtraining with learned neologisms."
+  },
+  {
+    "title": "Shallow Beliefs: Synthetic document finetuning does not inoculate against emergent misalignment from reward hacking",
+    "authors": "Jose et al.",
+    "year": 2026,
+    "month": 9,
+    "arxiv_id": "2609.14998",
+    "url": "https://arxiv.org/abs/2609.14998",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/instruction-alignment",
+    "tags": [
+      "alignment",
+      "inoculation",
+      "synthetic"
+    ],
+    "note": "Shallow Beliefs: synthetic document finetuning does not inoculate against emergent misalignment (related to inoculation mid)."
+  },
+  {
+    "title": "Stress-testing Alignment Midtraining",
+    "authors": "Baines et al.",
+    "year": 2026,
+    "month": 9,
+    "arxiv_id": "2609.20412",
+    "url": "https://arxiv.org/abs/2609.20412",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/instruction-alignment",
+    "tags": [
+      "alignment",
+      "midtraining",
+      "stress-test"
+    ],
+    "note": "Stress-testing Alignment Midtraining."
+  },
+  {
+    "title": "Constitutional Midtraining: Content Presence Drives Alignment Gains",
+    "authors": "Cho et al.",
+    "year": 2026,
+    "month": 7,
+    "arxiv_id": "2607.26654",
+    "url": "https://arxiv.org/abs/2607.26654",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/instruction-alignment",
+    "tags": [
+      "alignment",
+      "constitution",
+      "mid-training"
+    ],
+    "note": "Constitutional Midtraining: content presence drives alignment gains."
+  },
+  {
+    "title": "Model Spec Midtraining: Improving How Alignment Training Generalizes",
+    "authors": "Li et al.",
+    "year": 2026,
+    "month": 5,
+    "arxiv_id": "2605.02087",
+    "url": "https://arxiv.org/abs/2605.02087",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/instruction-alignment",
+    "tags": [
+      "alignment",
+      "mid-training",
+      "spec"
+    ],
+    "note": "Model Spec Midtraining: improving how alignment training generalizes."
+  },
+  {
+    "title": "Helpfulness Hurts: Domain-Dependent Degradation of Mid-Trained Compassion Values Under Post-Training",
+    "authors": "Brazilek et al.",
+    "year": 2026,
+    "month": 4,
+    "arxiv_id": "2606.26102",
+    "url": "https://arxiv.org/abs/2606.26102",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/instruction-alignment",
+    "tags": [
+      "alignment",
+      "mid-training",
+      "values"
+    ],
+    "note": "Helpfulness Hurts: domain-dependent degradation of mid-trained compassion values."
+  },
+  {
+    "title": "IKnow: Instruction-Knowledge-Aware Continual Pretraining for Effective Domain Adaptation",
+    "authors": "Zhang et al.",
+    "year": 2025,
+    "month": 10,
+    "arxiv_id": "2510.20377",
+    "url": "https://arxiv.org/abs/2510.20377",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/instruction-alignment",
+    "tags": [
+      "instruction",
+      "knowledge",
+      "continual-pretraining"
+    ],
+    "note": "IKnow: instruction-knowledge-aware CPT for domain adaptation."
+  },
+  {
+    "title": "Knowledge-Instruct: Effective Continual Pre-training from Limited Data using Instructions",
+    "authors": "Ovadia et al.",
+    "year": 2025,
+    "month": 4,
+    "arxiv_id": "2504.05571",
+    "url": "https://arxiv.org/abs/2504.05571",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/instruction-alignment",
+    "tags": [
+      "instruction",
+      "continual-pretraining",
+      "knowledge"
+    ],
+    "note": "Knowledge-Instruct: effective CPT from limited data using instructions."
+  },
+  {
+    "title": "Don't Stop Long-Context Continual Pre-Training Too Early: An Empirical Scaling Law",
+    "authors": "Qiao et al.",
+    "year": 2026,
+    "month": 10,
+    "arxiv_id": "2610.29352",
+    "url": "https://arxiv.org/abs/2610.29352",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/long-context",
+    "tags": [
+      "long-context",
+      "continual-pretraining",
+      "scaling"
+    ],
+    "note": "Don't stop long-context CPT too early: empirical scaling law."
+  },
+  {
+    "title": "History Replays Itself: Unleashing Long-Context Capability in Linear Attention",
+    "authors": "Nanbo et al.",
+    "year": 2026,
+    "month": 10,
+    "arxiv_id": "2610.15715",
+    "url": "https://arxiv.org/abs/2610.15715",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/long-context",
+    "tags": [
+      "long-context",
+      "linear-attention"
+    ],
+    "note": "History Replays Itself: unleashing long-context in linear attention."
+  },
+  {
+    "title": "TrajLong: Co-Designing Agentic and Long-Context Supervision for Mid-Training",
+    "authors": "Peng et al.",
+    "year": 2026,
+    "month": 10,
+    "arxiv_id": "2610.04973",
+    "url": "https://arxiv.org/abs/2610.04973",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/long-context",
+    "tags": [
+      "long-context",
+      "agent",
+      "trajectory",
+      "mid-training"
+    ],
+    "note": "TrajLong: compile trajectories into dense long-context supervision for mid-training."
+  },
+  {
+    "title": "SpectralShift: Effective Context Window Extension of Gated DeltaNet via Spectral Reparameterization",
+    "authors": "Liu et al.",
+    "year": 2026,
+    "month": 9,
+    "arxiv_id": "2609.14320",
+    "url": "https://arxiv.org/abs/2609.14320",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/long-context",
+    "tags": [
+      "long-context",
+      "DeltaNet"
+    ],
+    "note": "SpectralShift: context window extension of Gated DeltaNet."
+  },
+  {
+    "title": "Cracks in the Foundation: Seemingly Minor Architectural Choices Impact Long Context Extension",
+    "authors": "Bertsch et al.",
+    "year": 2026,
+    "month": 8,
+    "arxiv_id": "2608.10296",
+    "url": "https://arxiv.org/abs/2608.10296",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/long-context",
+    "tags": [
+      "long-context",
+      "architecture"
+    ],
+    "note": "Seemingly minor architectural choices impact long context extension."
+  },
+  {
+    "title": "Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling",
+    "authors": "Hu et al.",
+    "year": 2026,
+    "month": 7,
+    "arxiv_id": "2607.02980",
+    "url": "https://arxiv.org/abs/2607.02980",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/long-context",
+    "tags": [
+      "long-context",
+      "sparse-attention"
+    ],
+    "note": "Hierarchical Sparse Attention Done Right: toward infinite context modeling."
+  },
+  {
+    "title": "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE",
+    "authors": "Tang et al.",
+    "year": 2026,
+    "month": 7,
+    "arxiv_id": "2607.07740",
+    "url": "https://arxiv.org/abs/2607.07740",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/long-context",
+    "tags": [
+      "long-context",
+      "RoPE"
+    ],
+    "note": "Jet-Long: efficient long-context extension with dynamic bifocal RoPE."
+  },
+  {
+    "title": "Stacked from One: Multi-Scale Self-Injection for Context Window Extension",
+    "authors": "Han et al.",
+    "year": 2026,
+    "month": 3,
+    "arxiv_id": "2603.04759",
+    "url": "https://arxiv.org/abs/2603.04759",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/long-context",
+    "tags": [
+      "long-context",
+      "self-injection"
+    ],
+    "note": "Stacked from One: multi-scale self-injection for context window extension."
+  },
+  {
+    "title": "Towards robust long-context understanding of large language model via active recap learning",
+    "authors": "Chenyu Hui",
+    "year": 2026,
+    "month": 1,
+    "arxiv_id": "2601.13734",
+    "url": "https://arxiv.org/abs/2601.13734",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/long-context",
+    "tags": [
+      "long-context",
+      "recap"
+    ],
+    "note": "Robust long-context understanding via active recap learning."
+  },
+  {
+    "title": "Efficient Context Scaling with LongCat ZigZag Attention",
+    "authors": "Zhang et al.",
+    "year": 2025,
+    "month": 12,
+    "arxiv_id": "2512.23966",
+    "url": "https://arxiv.org/abs/2512.23966",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/long-context",
+    "tags": [
+      "long-context",
+      "attention"
+    ],
+    "note": "LongCat ZigZag Attention for efficient context scaling."
+  },
+  {
+    "title": "Positional Encoding via Token-Aware Phase Attention",
+    "authors": "Wang et al.",
+    "year": 2025,
+    "month": 9,
+    "arxiv_id": "2509.12635",
+    "url": "https://arxiv.org/abs/2509.12635",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/long-context",
+    "tags": [
+      "positional-encoding",
+      "attention"
+    ],
+    "note": "Positional Encoding via Token-Aware Phase Attention (extension-related)."
+  },
+  {
+    "title": "From 128K to 4M: Efficient Training of Ultra-Long Context Large Language Models",
+    "authors": "Xu et al.",
+    "year": 2025,
+    "month": 4,
+    "arxiv_id": "2504.06214",
+    "url": "https://arxiv.org/abs/2504.06214",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/long-context",
+    "tags": [
+      "long-context",
+      "ultra-long"
+    ],
+    "note": "From 128K to 4M: efficient training of ultra-long context LLMs."
+  },
+  {
+    "title": "LIFT: A Novel Framework for Enhancing Long-Context Understanding of LLMs via Long Input Fine-Tuning",
+    "authors": "Mao et al.",
+    "year": 2025,
+    "month": 2,
+    "arxiv_id": "2502.14644",
+    "url": "https://arxiv.org/abs/2502.14644",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/long-context",
+    "tags": [
+      "long-context",
+      "fine-tuning"
+    ],
+    "note": "LIFT: enhancing long-context understanding via long input fine-tuning (near mid/extension)."
+  },
+  {
+    "title": "Breaking the Stage Barrier: A Novel Single-Stage Approach to Long Context Extension for Large Language Models",
+    "authors": "Lian et al.",
+    "year": 2024,
+    "month": 12,
+    "arxiv_id": "2412.07171",
+    "url": "https://arxiv.org/abs/2412.07171",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/long-context",
+    "tags": [
+      "long-context",
+      "single-stage"
+    ],
+    "note": "Breaking the stage barrier: single-stage long context extension."
+  },
+  {
+    "title": "LongSkywork: A Training Recipe for Efficiently Extending Context Length in Large Language Models",
+    "authors": "Zhao et al.",
+    "year": 2024,
+    "month": 6,
+    "arxiv_id": "2406.00605",
+    "url": "https://arxiv.org/abs/2406.00605",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/long-context",
+    "tags": [
+      "long-context",
+      "recipe"
+    ],
+    "note": "LongSkywork: training recipe for efficiently extending context length."
+  },
+  {
+    "title": "Equipping Transformer with Random-Access Reading for Long-Context Understanding",
+    "authors": "Yang et al.",
+    "year": 2024,
+    "month": 5,
+    "arxiv_id": "2405.13216",
+    "url": "https://arxiv.org/abs/2405.13216",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/long-context",
+    "tags": [
+      "long-context",
+      "architecture"
+    ],
+    "note": "Equipping Transformer with random-access reading for long-context understanding."
+  },
+  {
+    "title": "Data Engineering for Scaling Language Models to 128K Context",
+    "authors": "Fu et al.",
+    "year": 2024,
+    "month": 2,
+    "arxiv_id": "2402.10171",
+    "url": "https://arxiv.org/abs/2402.10171",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/long-context",
+    "tags": [
+      "long-context",
+      "data-engineering"
+    ],
+    "note": "Data engineering for scaling LMs to 128K context."
+  },
+  {
+    "title": "Effective Long-Context Scaling of Foundation Models",
+    "authors": "Xiong et al.",
+    "year": 2023,
+    "month": 9,
+    "arxiv_id": "2309.16039",
+    "url": "https://arxiv.org/abs/2309.16039",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/long-context",
+    "tags": [
+      "long-context",
+      "scaling",
+      "continual-pretraining"
+    ],
+    "note": "Effective long-context scaling of foundation models (Meta)."
+  },
+  {
+    "title": "YaRN: Efficient Context Window Extension of Large Language Models",
+    "authors": "Peng et al.",
+    "year": 2023,
+    "month": 8,
+    "arxiv_id": "2309.00071",
+    "url": "https://arxiv.org/abs/2309.00071",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/long-context",
+    "tags": [
+      "YaRN",
+      "RoPE",
+      "context-extension"
+    ],
+    "note": "YaRN: efficient context window extension; widely used in mid/long-context stages."
+  },
+  {
+    "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+    "authors": "He et al.",
+    "year": 2026,
+    "month": 9,
+    "arxiv_id": "2609.13356",
+    "url": "https://arxiv.org/abs/2609.13356",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/math",
+    "tags": [
+      "math",
+      "agentic-search",
+      "open"
+    ],
+    "note": "ZGCM-1: open efficient foundation model for math and agentic search."
+  },
+  {
+    "title": "Unfolding Scientific Papers into Multi-Turn Generation Trajectories for Continued Pre-Training",
+    "authors": "Xu et al.",
+    "year": 2026,
+    "month": 8,
+    "arxiv_id": "2608.25826",
+    "url": "https://arxiv.org/abs/2608.25826",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/math",
+    "tags": [
+      "STEM",
       "synthetic",
       "continual-pretraining"
     ],
-    "note": "Adapting multilingual LLMs to low-resource languages via CPT + synthetic corpora."
+    "note": "Unfolding scientific papers into multi-turn trajectories for CPT."
+  },
+  {
+    "title": "Innovator: Scientific Continued Pretraining with Fine-grained MoE Upcycling",
+    "authors": "Liao et al.",
+    "year": 2025,
+    "month": 7,
+    "arxiv_id": "2507.18671",
+    "url": "https://arxiv.org/abs/2507.18671",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/math",
+    "tags": [
+      "STEM",
+      "MoE",
+      "continual-pretraining"
+    ],
+    "note": "Innovator: scientific continued pretraining with fine-grained MoE upcycling."
+  },
+  {
+    "title": "MegaMath: Pushing the Limits of Open Math Corpora",
+    "authors": "Zhou et al.",
+    "year": 2025,
+    "month": 4,
+    "arxiv_id": "2504.02807",
+    "url": "https://arxiv.org/abs/2504.02807",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/math",
+    "tags": [
+      "math",
+      "synthetic",
+      "dataset"
+    ],
+    "note": "MegaMath: large open math corpus for mid/continued pretraining. [dataset / open math corpus for mid CPT]"
+  },
+  {
+    "title": "Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language Models in Math",
+    "authors": "Xu et al.",
+    "year": 2025,
+    "month": 4,
+    "arxiv_id": "2504.21233",
+    "url": "https://arxiv.org/abs/2504.21233",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/math",
+    "tags": [
+      "math",
+      "reasoning",
+      "small-LM"
+    ],
+    "note": "Phi-4-Mini-Reasoning: math reasoning via continued training stack."
+  },
+  {
+    "title": "Stabilizing Reasoning in Medical LLMs with Continued Pretraining and Reasoning Preference Optimization",
+    "authors": "Kawakami et al.",
+    "year": 2025,
+    "month": 4,
+    "arxiv_id": "2504.18080",
+    "url": "https://arxiv.org/abs/2504.18080",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/math",
+    "tags": [
+      "medical",
+      "reasoning",
+      "continual-pretraining"
+    ],
+    "note": "Stabilizing medical LLM reasoning with continued pretraining + RPO."
   },
   {
     "title": "MELT: Materials-aware Continued Pre-training for Language Model Adaptation to Materials Science",
@@ -3065,12 +1687,1487 @@
     "url": "https://arxiv.org/abs/2410.15126",
     "code_url": null,
     "venue": "arXiv",
-    "category": "3_data",
+    "category": "capability/math",
     "tags": [
       "materials",
       "continual-pretraining"
     ],
-    "note": "MELT: materials-aware continued pre-training."
+    "note": "MELT: materials-aware continued pre-training. [materials-science STEM domain CPT]"
+  },
+  {
+    "title": "AQL-Lite: Enabling Efficient Knowledge Acquisition for Arabic LLMs via Data-Centric Continual Pretraining",
+    "authors": "Boukhalfa et al.",
+    "year": 2026,
+    "month": 10,
+    "arxiv_id": "2610.30344",
+    "url": "https://arxiv.org/abs/2610.30344",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/multilingual",
+    "tags": [
+      "Arabic",
+      "continual-pretraining",
+      "data-centric"
+    ],
+    "note": "AQL-Lite: data-centric continual pretraining for Arabic LLMs."
+  },
+  {
+    "title": "In-Place Indic Tokenizer Expansion and Continual Pretraining of Nemotron-3-Nano-30B-A3B",
+    "authors": "Benki et al.",
+    "year": 2026,
+    "month": 10,
+    "arxiv_id": "2610.15373",
+    "url": "https://arxiv.org/abs/2610.15373",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/multilingual",
+    "tags": [
+      "Indic",
+      "tokenizer",
+      "continual-pretraining"
+    ],
+    "note": "In-place Indic tokenizer expansion + CPT of Nemotron-3-Nano."
+  },
+  {
+    "title": "From Zero to Hero: An Open LLM Ecosystem for Armenian",
+    "authors": "Arakelyan et al.",
+    "year": 2026,
+    "month": 9,
+    "arxiv_id": "2609.03350",
+    "url": "https://arxiv.org/abs/2609.03350",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/multilingual",
+    "tags": [
+      "Armenian",
+      "open",
+      "ecosystem"
+    ],
+    "note": "From Zero to Hero: open LLM ecosystem for Armenian (CPT recipe)."
+  },
+  {
+    "title": "K-EXAONE 2.0 Technical Report",
+    "authors": "Choi et al.",
+    "year": 2026,
+    "month": 8,
+    "arxiv_id": "2608.04505",
+    "url": "https://arxiv.org/abs/2608.04505",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/multilingual",
+    "tags": [
+      "industrial",
+      "Korean"
+    ],
+    "note": "K-EXAONE 2.0 technical report (mid/annealing stages). [tech report; Korean LM mid/annealing]"
+  },
+  {
+    "title": "Reading the News: Adapting Large Language Models to Swedish Journalism Through Continued Pre-Training",
+    "authors": "Borggren et al.",
+    "year": 2026,
+    "month": 8,
+    "arxiv_id": "2608.30609",
+    "url": "https://arxiv.org/abs/2608.30609",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/multilingual",
+    "tags": [
+      "Swedish",
+      "journalism",
+      "continual-pretraining"
+    ],
+    "note": "Reading the News: adapting LLMs to Swedish journalism via CPT."
+  },
+  {
+    "title": "KletterMix: Climbing Toward High-Quality German Pretraining Data - The Full Report",
+    "authors": "Kraus et al.",
+    "year": 2026,
+    "month": 6,
+    "arxiv_id": "2606.03773",
+    "url": "https://arxiv.org/abs/2606.03773",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/multilingual",
+    "tags": [
+      "dataset",
+      "German",
+      "HQ-data"
+    ],
+    "note": "KletterMix: high-quality German pretraining data report. [dataset / HQ German pretraining mix]"
+  },
+  {
+    "title": "moBERTo: A Modern Encoder for Portuguese via Continued Pretraining of ModernBERT",
+    "authors": "Laitz et al.",
+    "year": 2026,
+    "month": 6,
+    "arxiv_id": "2606.22722",
+    "url": "https://arxiv.org/abs/2606.22722",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/multilingual",
+    "tags": [
+      "Portuguese",
+      "encoder",
+      "continual-pretraining"
+    ],
+    "note": "moBERTo: ModernBERT continued pretraining for Portuguese."
+  },
+  {
+    "title": "EstLLM: Enhancing Estonian Capabilities in Multilingual LLMs via Continued Pretraining and Post-Training",
+    "authors": "Dorkin et al.",
+    "year": 2026,
+    "month": 3,
+    "arxiv_id": "2603.02041",
+    "url": "https://arxiv.org/abs/2603.02041",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/multilingual",
+    "tags": [
+      "multilingual",
+      "Estonian",
+      "continual-pretraining"
+    ],
+    "note": "EstLLM: enhancing Estonian via CPT and post-training."
+  },
+  {
+    "title": "Synthetic Rewriting as a Quality Multiplier: Evidence from Portuguese Continued Pretraining",
+    "authors": "Almeida et al.",
+    "year": 2026,
+    "month": 3,
+    "arxiv_id": "2603.24826",
+    "url": "https://arxiv.org/abs/2603.24826",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/multilingual",
+    "tags": [
+      "synthetic",
+      "Portuguese",
+      "continual-pretraining"
+    ],
+    "note": "Synthetic rewriting as quality multiplier: Portuguese CPT evidence."
+  },
+  {
+    "title": "Tucano 2 Cool: Better Open Source LLMs for Portuguese",
+    "authors": "Corrêa et al.",
+    "year": 2026,
+    "month": 3,
+    "arxiv_id": "2603.03543",
+    "url": "https://arxiv.org/abs/2603.03543",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/multilingual",
+    "tags": [
+      "Portuguese",
+      "open"
+    ],
+    "note": "Tucano 2 Cool: better open source LLMs for Portuguese (CPT recipe)."
+  },
+  {
+    "title": "AfriqueLLM: How Data Mixing and Model Architecture Impact Continued Pre-training for African Languages",
+    "authors": "Yu et al.",
+    "year": 2026,
+    "month": 1,
+    "arxiv_id": "2601.06395",
+    "url": "https://arxiv.org/abs/2601.06395",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/multilingual",
+    "tags": [
+      "multilingual",
+      "Africa",
+      "mixture"
+    ],
+    "note": "AfriqueLLM: data mixing and architecture impact CPT for African languages."
+  },
+  {
+    "title": "ELO: Efficient Layer-Specific Optimization for Continual Pretraining of Multilingual LLMs",
+    "authors": "Yoo et al.",
+    "year": 2026,
+    "month": 1,
+    "arxiv_id": "2601.03648",
+    "url": "https://arxiv.org/abs/2601.03648",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/multilingual",
+    "tags": [
+      "multilingual",
+      "continual-pretraining",
+      "efficient"
+    ],
+    "note": "ELO: efficient layer-specific optimization for multilingual CPT."
+  },
+  {
+    "title": "Mecellem Models: Turkish Models Trained from Scratch and Continually Pre-trained for the Legal Domain",
+    "authors": "Uğur et al.",
+    "year": 2026,
+    "month": 1,
+    "arxiv_id": "2601.16018",
+    "url": "https://arxiv.org/abs/2601.16018",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/multilingual",
+    "tags": [
+      "Turkish",
+      "legal",
+      "continual-pretraining"
+    ],
+    "note": "Mecellem: Turkish legal models trained from scratch and continually pre-trained."
+  },
+  {
+    "title": "Qalb: Largest State-of-the-Art Urdu Large Language Model for 230M Speakers with Systematic Continued Pre-training",
+    "authors": "Hassan et al.",
+    "year": 2026,
+    "month": 1,
+    "arxiv_id": "2601.08141",
+    "url": "https://arxiv.org/abs/2601.08141",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/multilingual",
+    "tags": [
+      "Urdu",
+      "continual-pretraining"
+    ],
+    "note": "Qalb: Urdu LLM with systematic continual pretraining."
+  },
+  {
+    "title": "Efficient Training of Robust Traditional Chinese LLaMA-1B on a Single Consumer GPU: Continual Pre-training, SFT, and DPO",
+    "authors": "Chih et al.",
+    "year": 2025,
+    "month": 10,
+    "arxiv_id": "2510.01616",
+    "url": "https://arxiv.org/abs/2510.01616",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/multilingual",
+    "tags": [
+      "Chinese",
+      "continual-pretraining",
+      "efficient"
+    ],
+    "note": "Efficient training of robust Traditional Chinese LLaMA-1B via CPT on consumer GPU."
+  },
+  {
+    "title": "From Curated Data to Scalable Models: Continual Pre-training of Dense and MoE Large Language Models for Tibetan",
+    "authors": "Yang et al.",
+    "year": 2025,
+    "month": 7,
+    "arxiv_id": "2507.09205",
+    "url": "https://arxiv.org/abs/2507.09205",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/multilingual",
+    "tags": [
+      "continual-pretraining",
+      "MoE",
+      "curated-data"
+    ],
+    "note": "From curated data to scalable models: CPT of dense and MoE LLMs."
+  },
+  {
+    "title": "Full-Parameter Continual Pretraining of Gemma2: Insights into Fluency and Domain Knowledge",
+    "authors": "Šliogeris et al.",
+    "year": 2025,
+    "month": 5,
+    "arxiv_id": "2505.05946",
+    "url": "https://arxiv.org/abs/2505.05946",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/multilingual",
+    "tags": [
+      "continual-pretraining",
+      "fluency"
+    ],
+    "note": "Full-parameter continual pretraining of Gemma2: fluency and domain knowledge."
+  },
+  {
+    "title": "Efficient Domain-adaptive Continual Pretraining for the Process Industry in the German Language",
+    "authors": "Zhukova et al.",
+    "year": 2025,
+    "month": 4,
+    "arxiv_id": "2504.19856",
+    "url": "https://arxiv.org/abs/2504.19856",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/multilingual",
+    "tags": [
+      "German",
+      "process-industry",
+      "continual-pretraining"
+    ],
+    "note": "Efficient domain-adaptive CPT for process industry in German."
+  },
+  {
+    "title": "Rethinking Multilingual Continual Pretraining: Data Mixing for Adapting LLMs Across Languages and Resources",
+    "authors": "Li et al.",
+    "year": 2025,
+    "month": 4,
+    "arxiv_id": "2504.04152",
+    "url": "https://arxiv.org/abs/2504.04152",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/multilingual",
+    "tags": [
+      "multilingual",
+      "continual-pretraining",
+      "mixture"
+    ],
+    "note": "Rethinking multilingual CPT: data mixing for adapting LLMs across languages."
+  },
+  {
+    "title": "Efficient Continual Pre-training of LLMs for Low-resource Languages",
+    "authors": "Nag et al.",
+    "year": 2024,
+    "month": 12,
+    "arxiv_id": "2412.10244",
+    "url": "https://arxiv.org/abs/2412.10244",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/multilingual",
+    "tags": [
+      "multilingual",
+      "continual-pretraining",
+      "efficient"
+    ],
+    "note": "Efficient continual pre-training of LLMs for low-resource languages."
+  },
+  {
+    "title": "Adapting Multilingual LLMs to Low-Resource Languages using Continued Pre-training and Synthetic Corpus",
+    "authors": "Joshi et al.",
+    "year": 2024,
+    "month": 10,
+    "arxiv_id": "2410.14815",
+    "url": "https://arxiv.org/abs/2410.14815",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/multilingual",
+    "tags": [
+      "multilingual",
+      "synthetic",
+      "continual-pretraining"
+    ],
+    "note": "Adapting multilingual LLMs to low-resource languages via CPT + synthetic corpora."
+  },
+  {
+    "title": "Apertus 1.5: From Open Text Models to Open Multimodal Reasoners",
+    "authors": "Apertus et al.",
+    "year": 2026,
+    "month": 10,
+    "arxiv_id": "2610.15542",
+    "url": "https://arxiv.org/abs/2610.15542",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/multimodal",
+    "tags": [
+      "multimodal",
+      "open",
+      "reasoning"
+    ],
+    "note": "Apertus 1.5: from open text models to open multimodal reasoners."
+  },
+  {
+    "title": "Phoenix-VL 1.5 Medium Technical Report",
+    "authors": "Team Phoenix",
+    "year": 2026,
+    "month": 5,
+    "arxiv_id": "2605.10391",
+    "url": "https://arxiv.org/abs/2605.10391",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/multimodal",
+    "tags": [
+      "VLM",
+      "technical-report"
+    ],
+    "note": "Phoenix-VL 1.5 Medium technical report with mid/continued stages."
+  },
+  {
+    "title": "MixAtlas: Uncertainty-aware Data Mixture Optimization for Multimodal LLM Midtraining",
+    "authors": "Wen et al.",
+    "year": 2026,
+    "month": 4,
+    "arxiv_id": "2604.14198",
+    "url": "https://arxiv.org/abs/2604.14198",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/multimodal",
+    "tags": [
+      "multimodal",
+      "mixture",
+      "mid-training"
+    ],
+    "note": "MixAtlas: uncertainty-aware data mixture optimization for multimodal LLM midtraining."
+  },
+  {
+    "title": "Inherited, Not Invented: Tracing the Provenance of Wait in Reasoning Models",
+    "authors": "Kou et al.",
+    "year": 2026,
+    "month": 10,
+    "arxiv_id": "2610.30882",
+    "url": "https://arxiv.org/abs/2610.30882",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/reasoning",
+    "tags": [
+      "reasoning",
+      "provenance",
+      "wait"
+    ],
+    "note": "Inherited, Not Invented: tracing provenance of Wait in reasoning models (mid/RL interplay)."
+  },
+  {
+    "title": "Where RL Breaks: Localizing and Repairing Failures via Targeted Continued Pretraining",
+    "authors": "Wang et al.",
+    "year": 2026,
+    "month": 10,
+    "arxiv_id": "2610.25836",
+    "url": "https://arxiv.org/abs/2610.25836",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/reasoning",
+    "tags": [
+      "reasoning",
+      "RL",
+      "continual-pretraining"
+    ],
+    "note": "Where RL breaks: localizing failures via targeted continued pretraining."
+  },
+  {
+    "title": "$T^5$: Twin-Critic Training for Token-Level Thoughts in Reinforcement Mid-Training",
+    "authors": "Qiao et al.",
+    "year": 2026,
+    "month": 9,
+    "arxiv_id": "2609.32791",
+    "url": "https://arxiv.org/abs/2609.32791",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/reasoning",
+    "tags": [
+      "reasoning",
+      "RL",
+      "mid-training"
+    ],
+    "note": "T^5: twin-critic token-level thoughts in reinforcement mid-training."
+  },
+  {
+    "title": "ExpRL: Exploratory RL for LLM Mid-Training",
+    "authors": "Xiang et al.",
+    "year": 2026,
+    "month": 6,
+    "arxiv_id": "2606.17024",
+    "url": "https://arxiv.org/abs/2606.17024",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/reasoning",
+    "tags": [
+      "reasoning",
+      "RL",
+      "mid-training",
+      "exploration"
+    ],
+    "note": "ExpRL: exploratory RL for LLM mid-training."
+  },
+  {
+    "title": "Mid-Training with Self-Generated Data Improves Reinforcement Learning in Language Models",
+    "authors": "RRV et al.",
+    "year": 2026,
+    "month": 5,
+    "arxiv_id": "2605.08472",
+    "url": "https://arxiv.org/abs/2605.08472",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/reasoning",
+    "tags": [
+      "reasoning",
+      "RL",
+      "synthetic",
+      "mid-training"
+    ],
+    "note": "Mid-training with self-generated data improves subsequent RL."
+  },
+  {
+    "title": "ReMiT: RL-Guided Mid-Training for Iterative LLM Evolution",
+    "authors": "Huang et al.",
+    "year": 2026,
+    "month": 2,
+    "arxiv_id": "2602.03075",
+    "url": "https://arxiv.org/abs/2602.03075",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/reasoning",
+    "tags": [
+      "reasoning",
+      "RL",
+      "mid-training"
+    ],
+    "note": "ReMiT: RL-guided mid-training for iterative LLM evolution."
+  },
+  {
+    "title": "Front-Loading Reasoning: The Synergy between Pretraining and Post-Training Data",
+    "authors": "Akter et al.",
+    "year": 2025,
+    "month": 9,
+    "arxiv_id": "2510.03264",
+    "url": "https://arxiv.org/abs/2510.03264",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/reasoning",
+    "tags": [
+      "reasoning",
+      "data-timing",
+      "pretrain-vs-post"
+    ],
+    "note": "Front-Loading Reasoning: synergy between pretraining and post-training data."
+  },
+  {
+    "title": "Learning to Reason as Action Abstractions with Scalable Mid-Training RL",
+    "authors": "Zhang et al.",
+    "year": 2025,
+    "month": 9,
+    "arxiv_id": "2509.25810",
+    "url": "https://arxiv.org/abs/2509.25810",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/reasoning",
+    "tags": [
+      "reasoning",
+      "RL",
+      "mid-training",
+      "abstractions"
+    ],
+    "note": "Learning to reason as action abstractions with scalable mid-training RL."
+  },
+  {
+    "title": "Reinforcement Mid-Training",
+    "authors": "Tian et al.",
+    "year": 2025,
+    "month": 9,
+    "arxiv_id": "2509.24375",
+    "url": "https://arxiv.org/abs/2509.24375",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/reasoning",
+    "tags": [
+      "reasoning",
+      "RL",
+      "mid-training"
+    ],
+    "note": "Reinforcement Mid-Training."
+  },
+  {
+    "title": "OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling",
+    "authors": "Wang et al.",
+    "year": 2025,
+    "month": 6,
+    "arxiv_id": "2506.20512",
+    "url": "https://arxiv.org/abs/2506.20512",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/reasoning",
+    "tags": [
+      "reasoning",
+      "RL",
+      "plasticity",
+      "mid-training"
+    ],
+    "note": "OctoThinker: mid-training incentivizes RL scaling; Stable-then-Decay; CoT form matters."
+  },
+  {
+    "title": "Mining Hidden Thoughts from Texts: Evaluating Continual Pretraining with Synthetic Data for LLM Reasoning",
+    "authors": "Ishibashi et al.",
+    "year": 2025,
+    "month": 5,
+    "arxiv_id": "2505.10182",
+    "url": "https://arxiv.org/abs/2505.10182",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/reasoning",
+    "tags": [
+      "reasoning",
+      "synthetic",
+      "continual-pretraining"
+    ],
+    "note": "Mining hidden thoughts from texts: CPT with synthetic data for LLM reasoning."
+  },
+  {
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "authors": "DeepSeek-AI",
+    "year": 2025,
+    "month": 1,
+    "arxiv_id": "2501.12948",
+    "url": "https://arxiv.org/abs/2501.12948",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "capability/reasoning",
+    "tags": [
+      "RLVR",
+      "reasoning",
+      "downstream"
+    ],
+    "note": "DeepSeek-R1: RLVR paradigm often used as downstream of reasoning mid-training."
+  },
+  {
+    "title": "A Survey on LLM Mid-Training",
+    "authors": "Tu et al.",
+    "year": 2025,
+    "month": 10,
+    "arxiv_id": "2510.23081",
+    "url": "https://arxiv.org/abs/2510.23081",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "surveys",
+    "tags": [
+      "survey",
+      "taxonomy"
+    ],
+    "note": "Systematic survey defining LLM mid-training; data, LR, architecture, objective-driven implementations."
+  },
+  {
+    "title": "Mid-Training of Large Language Models: A Survey",
+    "authors": "Mo et al.",
+    "year": 2025,
+    "month": 10,
+    "arxiv_id": "2510.06826",
+    "url": "https://arxiv.org/abs/2510.06826",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "surveys",
+    "tags": [
+      "survey",
+      "annealing",
+      "taxonomy"
+    ],
+    "note": "Annealing-style mid-training survey: data distributions, LR schedulers, long-context theory."
+  },
+  {
+    "title": "Data Schedules and Learning Rate Schedules Should Be Designed Together",
+    "authors": "Wen et al.",
+    "year": 2026,
+    "month": 10,
+    "arxiv_id": "2610.29348",
+    "url": "https://arxiv.org/abs/2610.29348",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "data-schedule",
+      "LR-schedule"
+    ],
+    "note": "Argues data schedules and LR schedules should be designed together."
+  },
+  {
+    "title": "Fisher-Guided Submodular Data Selection for Continual Pre-Training of Large Language Models",
+    "authors": "Zhao et al.",
+    "year": 2026,
+    "month": 10,
+    "arxiv_id": "2610.02593",
+    "url": "https://arxiv.org/abs/2610.02593",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "data-selection",
+      "continual-pretraining"
+    ],
+    "note": "Fisher-guided submodular data selection for CPT of LLMs. [data-selection method for CPT; theory/analysis]"
+  },
+  {
+    "title": "OLMo-Detect: A Multi-Stage, Confounder-Controlled Benchmark for Membership Inference on Large Language Models",
+    "authors": "Shi et al.",
+    "year": 2026,
+    "month": 10,
+    "arxiv_id": "2610.02986",
+    "url": "https://arxiv.org/abs/2610.02986",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "evaluation",
+      "membership-inference",
+      "OLMo"
+    ],
+    "note": "OLMo-Detect: multi-stage MIA benchmark on LLMs (uses OLMo mid checkpoints). [benchmark using mid-stage checkpoints; cross-cutting]"
+  },
+  {
+    "title": "AutoDataBench: A Data-centric Testbed for Accelerating Auto Research",
+    "authors": "Yuan et al.",
+    "year": 2026,
+    "month": 9,
+    "arxiv_id": "2609.40097",
+    "url": "https://arxiv.org/abs/2609.40097",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "data-centric",
+      "auto-research",
+      "benchmark"
+    ],
+    "note": "AutoDataBench: data-centric testbed (relevant for mid data selection eval). [data-centric eval testbed; cross-cutting]"
+  },
+  {
+    "title": "Everything in Moderation: Per-Domain Coverage Optima and Alignment-Resistant Domain Gaps in Multi-Domain Mid-Training",
+    "authors": "Xu et al.",
+    "year": 2026,
+    "month": 9,
+    "arxiv_id": "2609.09081",
+    "url": "https://arxiv.org/abs/2609.09081",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "mixture",
+      "coverage",
+      "alignment"
+    ],
+    "note": "Everything in Moderation: per-domain coverage optima and alignment-resistant domain gaps."
+  },
+  {
+    "title": "Pre-training interventions, ex post facto: Grafting model beliefs across checkpoints",
+    "authors": "Nutter et al.",
+    "year": 2026,
+    "month": 9,
+    "arxiv_id": "2610.00767",
+    "url": "https://arxiv.org/abs/2610.00767",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "checkpoints",
+      "beliefs",
+      "intervention"
+    ],
+    "note": "Pre-training interventions ex post facto: grafting model beliefs across checkpoints."
+  },
+  {
+    "title": "Replay on Demand: An Emergent Curriculum for Balancing Adaptation and Forgetting in Continued Pretraining",
+    "authors": "Thede et al.",
+    "year": 2026,
+    "month": 9,
+    "arxiv_id": "2609.40089",
+    "url": "https://arxiv.org/abs/2609.40089",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "replay",
+      "curriculum",
+      "continual-pretraining"
+    ],
+    "note": "Replay on Demand: emergent curriculum balancing adaptation and forgetting in CPT. [replay/curriculum analysis for CPT]"
+  },
+  {
+    "title": "SOLAR: A State-Driven Online Learning Rate Scheduler for LLM Pretraining",
+    "authors": "Shang et al.",
+    "year": 2026,
+    "month": 9,
+    "arxiv_id": "2609.34681",
+    "url": "https://arxiv.org/abs/2609.34681",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "LR-schedule",
+      "online",
+      "pretraining"
+    ],
+    "note": "SOLAR: state-driven online learning rate scheduler for LLM pretraining."
+  },
+  {
+    "title": "Time-Incremental Continued Pretraining of LLMs: Knowledge Updates Without Catastrophic Forgetting",
+    "authors": "Öncel et al.",
+    "year": 2026,
+    "month": 9,
+    "arxiv_id": "2609.23916",
+    "url": "https://arxiv.org/abs/2609.23916",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "knowledge-update",
+      "continual-pretraining",
+      "forgetting"
+    ],
+    "note": "Time-incremental CPT: knowledge updates without catastrophic forgetting."
+  },
+  {
+    "title": "Towards Understanding Momentum Acceleration in River-Valley Loss Landscape",
+    "authors": "Lu et al.",
+    "year": 2026,
+    "month": 9,
+    "arxiv_id": "2609.30957",
+    "url": "https://arxiv.org/abs/2609.30957",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "momentum",
+      "river-valley",
+      "LR"
+    ],
+    "note": "Towards understanding momentum acceleration in river-valley loss landscape."
+  },
+  {
+    "title": "What Pretraining and Midtraining Make Learnable from Rewards?",
+    "authors": "Yang et al.",
+    "year": 2026,
+    "month": 9,
+    "arxiv_id": "2609.38446",
+    "url": "https://arxiv.org/abs/2609.38446",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "midtraining",
+      "RL",
+      "plasticity"
+    ],
+    "note": "What pretraining and midtraining make learnable from rewards."
+  },
+  {
+    "title": "Different Perturbations, Different Mechanisms: Understanding Continued Pre-training for Zero-Shot Dialect Robustness",
+    "authors": "Srivastava et al.",
+    "year": 2026,
+    "month": 8,
+    "arxiv_id": "2608.05510",
+    "url": "https://arxiv.org/abs/2608.05510",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "continual-pretraining",
+      "mechanisms"
+    ],
+    "note": "Different perturbations, different mechanisms in continued pre-training for zero-shot."
+  },
+  {
+    "title": "Synthetic Worlds for Temporal Evaluation and Knowledge Updating in LLMs",
+    "authors": "Zheng et al.",
+    "year": 2026,
+    "month": 8,
+    "arxiv_id": "2609.00184",
+    "url": "https://arxiv.org/abs/2609.00184",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "synthetic",
+      "knowledge-update"
+    ],
+    "note": "Synthetic worlds for temporal evaluation and knowledge updating in LLMs."
+  },
+  {
+    "title": "UpgradeBench: A Decision-Centric Benchmark for Upgrading Fine-Tuned LLM Specialists",
+    "authors": "Chen et al.",
+    "year": 2026,
+    "month": 8,
+    "arxiv_id": "2608.20918",
+    "url": "https://arxiv.org/abs/2608.20918",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "evaluation",
+      "upgrade",
+      "specialists"
+    ],
+    "note": "UpgradeBench: decision-centric benchmark for upgrading fine-tuned specialists. [upgrade / mid↔post evaluation protocol]"
+  },
+  {
+    "title": "When to Review: Spaced Repetition for Continual Pre-Training of Language Models",
+    "authors": "Atreya et al.",
+    "year": 2026,
+    "month": 8,
+    "arxiv_id": "2608.17530",
+    "url": "https://arxiv.org/abs/2608.17530",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "replay",
+      "spaced-repetition",
+      "continual-pretraining"
+    ],
+    "note": "When to Review: spaced repetition for continual pre-training."
+  },
+  {
+    "title": "Retrofitting Recurrent Depth into a Pretrained Language Model: Installation, Extrapolation, Transfer, and Retention at Two Parameter Budgets",
+    "authors": "Mark Shapiro",
+    "year": 2026,
+    "month": 7,
+    "arxiv_id": "2608.11233",
+    "url": "https://arxiv.org/abs/2608.11233",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "architecture",
+      "recurrent-depth"
+    ],
+    "note": "Retrofitting recurrent depth into a pretrained LM (mid-stage architectural)."
+  },
+  {
+    "title": "WSqD: A Horizon-Free Learning Rate Schedule for Large Model Training",
+    "authors": "Ma et al.",
+    "year": 2026,
+    "month": 7,
+    "arxiv_id": "2607.10959",
+    "url": "https://arxiv.org/abs/2607.10959",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "LR-schedule",
+      "WSqD"
+    ],
+    "note": "WSqD: horizon-free learning rate schedule for large model training."
+  },
+  {
+    "title": "Predictable Scaling Laws of Optimal Hyperparameters for LLM Continued Pre-training",
+    "authors": "Zhou et al.",
+    "year": 2026,
+    "month": 6,
+    "arxiv_id": "2606.05610",
+    "url": "https://arxiv.org/abs/2606.05610",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "scaling",
+      "continual-pretraining",
+      "hyperparameters"
+    ],
+    "note": "Predictable scaling laws of optimal hyperparameters for LLM CPT."
+  },
+  {
+    "title": "A Causal Language Modeling Detour Improves Encoder Continued Pretraining",
+    "authors": "Touchent et al.",
+    "year": 2026,
+    "month": 5,
+    "arxiv_id": "2605.12438",
+    "url": "https://arxiv.org/abs/2605.12438",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "encoder",
+      "continual-pretraining"
+    ],
+    "note": "A causal LM detour improves encoder continued pretraining."
+  },
+  {
+    "title": "Freeze Deep, Train Shallow: Interpretable Layer Allocation for Continued Pre-Training",
+    "authors": "Wu et al.",
+    "year": 2026,
+    "month": 5,
+    "arxiv_id": "2605.11416",
+    "url": "https://arxiv.org/abs/2605.11416",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "continual-pretraining",
+      "layer-allocation"
+    ],
+    "note": "Freeze Deep, Train Shallow: interpretable layer allocation for CPT."
+  },
+  {
+    "title": "ScheduleFree+: Scaling Learning-Rate-Free & Schedule-Free Learning to Large Language Models",
+    "authors": "Aaron Defazio",
+    "year": 2026,
+    "month": 5,
+    "arxiv_id": "2605.19095",
+    "url": "https://arxiv.org/abs/2605.19095",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "schedule-free",
+      "LR"
+    ],
+    "note": "ScheduleFree+: scaling learning-rate-free & schedule-free learning to LLMs."
+  },
+  {
+    "title": "TFGN: Task-Free, Replay-Free Continual Pre-Training Without Catastrophic Forgetting at LLM Scale",
+    "authors": "Anurup Ganguli",
+    "year": 2026,
+    "month": 5,
+    "arxiv_id": "2605.15053",
+    "url": "https://arxiv.org/abs/2605.15053",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "continual-pretraining",
+      "replay-free"
+    ],
+    "note": "TFGN: task-free, replay-free continual pre-training without forgetting at LLM scale."
+  },
+  {
+    "title": "Can Continual Pre-training Bridge the Performance Gap between General-purpose and Specialized Language Models in the Medical Domain?",
+    "authors": "Doll et al.",
+    "year": 2026,
+    "month": 4,
+    "arxiv_id": "2604.19394",
+    "url": "https://arxiv.org/abs/2604.19394",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "continual-pretraining",
+      "specialized"
+    ],
+    "note": "Can CPT bridge the gap between general-purpose and specialized LLMs?"
+  },
+  {
+    "title": "Revealing the Learning Dynamics of Long-Context Continual Pre-training",
+    "authors": "Liang et al.",
+    "year": 2026,
+    "month": 4,
+    "arxiv_id": "2604.02650",
+    "url": "https://arxiv.org/abs/2604.02650",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "long-context",
+      "continual-pretraining",
+      "dynamics"
+    ],
+    "note": "Learning dynamics of long-context continual pre-training."
+  },
+  {
+    "title": "OptiMer: Optimal Distribution Vector Merging Is Better than Data Mixing for Continual Pre-Training",
+    "authors": "Song et al.",
+    "year": 2026,
+    "month": 3,
+    "arxiv_id": "2603.28858",
+    "url": "https://arxiv.org/abs/2603.28858",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "mixture",
+      "merging",
+      "continual-pretraining"
+    ],
+    "note": "OptiMer: optimal distribution vector merging vs data mixing for CPT."
+  },
+  {
+    "title": "Continual Pretraining on Encrypted Synthetic Data for Privacy-Preserving LLMs",
+    "authors": "Liu et al.",
+    "year": 2026,
+    "month": 1,
+    "arxiv_id": "2601.05635",
+    "url": "https://arxiv.org/abs/2601.05635",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "privacy",
+      "synthetic",
+      "continual-pretraining"
+    ],
+    "note": "CPT on encrypted synthetic data for privacy-preserving LLMs."
+  },
+  {
+    "title": "How Do Large Language Models Learn Concepts During Continual Pre-Training?",
+    "authors": "Yao et al.",
+    "year": 2026,
+    "month": 1,
+    "arxiv_id": "2601.03570",
+    "url": "https://arxiv.org/abs/2601.03570",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "continual-pretraining",
+      "concepts"
+    ],
+    "note": "How LLMs learn concepts during continual pre-training."
+  },
+  {
+    "title": "Learning What to Predict: Downstream-Guided Task Design for Continued Pretraining",
+    "authors": "Ke et al.",
+    "year": 2026,
+    "month": 1,
+    "arxiv_id": "2601.22108",
+    "url": "https://arxiv.org/abs/2601.22108",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "task-design",
+      "continual-pretraining"
+    ],
+    "note": "Learning what to predict: downstream-guided task design for CPT."
+  },
+  {
+    "title": "MergeMix: Optimizing Mid-Training Data Mixtures via Learnable Model Merging",
+    "authors": "Wang et al.",
+    "year": 2026,
+    "month": 1,
+    "arxiv_id": "2601.17858",
+    "url": "https://arxiv.org/abs/2601.17858",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "mixture",
+      "mid-training",
+      "merging"
+    ],
+    "note": "MergeMix: optimize mid-training data mixtures via learnable model merging. [mid-training mixture optimization]"
+  },
+  {
+    "title": "What Does Loss Optimization Actually Teach, If Anything? Knowledge Dynamics in Continual Pre-training of LLMs",
+    "authors": "Mousavi et al.",
+    "year": 2026,
+    "month": 1,
+    "arxiv_id": "2601.03858",
+    "url": "https://arxiv.org/abs/2601.03858",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "continual-pretraining",
+      "knowledge-dynamics"
+    ],
+    "note": "Knowledge dynamics under loss optimization in continual pre-training."
+  },
+  {
+    "title": "On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models",
+    "authors": "Zhang et al.",
+    "year": 2025,
+    "month": 12,
+    "arxiv_id": "2512.07783",
+    "url": "https://arxiv.org/abs/2512.07783",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "mid-training",
+      "RL",
+      "reasoning"
+    ],
+    "note": "Interplay of pre-training, mid-training, and RL on reasoning LMs."
+  },
+  {
+    "title": "Perplexity-Aware Data Scaling Law: Perplexity Landscapes Predict Performance for Continual Pre-training",
+    "authors": "Liu et al.",
+    "year": 2025,
+    "month": 12,
+    "arxiv_id": "2512.21515",
+    "url": "https://arxiv.org/abs/2512.21515",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "scaling",
+      "continual-pretraining",
+      "perplexity"
+    ],
+    "note": "Perplexity landscapes predict continual pre-training performance (data scaling law)."
+  },
+  {
+    "title": "The Data Efficiency Frontier of Financial Foundation Models: Scaling Laws from Continued Pretraining",
+    "authors": "Jesse Ponnock",
+    "year": 2025,
+    "month": 12,
+    "arxiv_id": "2512.12384",
+    "url": "https://arxiv.org/abs/2512.12384",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "scaling",
+      "finance",
+      "continual-pretraining"
+    ],
+    "note": "Data efficiency frontier of financial foundation models: scaling laws from CPT."
+  },
+  {
+    "title": "ADEPT: Continual Pretraining via Adaptive Expansion and Dynamic Decoupled Tuning",
+    "authors": "Zhang et al.",
+    "year": 2025,
+    "month": 10,
+    "arxiv_id": "2510.10071",
+    "url": "https://arxiv.org/abs/2510.10071",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "continual-pretraining",
+      "architecture",
+      "expansion"
+    ],
+    "note": "ADEPT: CPT via adaptive expansion and dynamic decoupled tuning."
+  },
+  {
+    "title": "Layer of Truth: Probing Belief Shifts under Continual Pre-Training Poisoning",
+    "authors": "Churina et al.",
+    "year": 2025,
+    "month": 10,
+    "arxiv_id": "2510.26829",
+    "url": "https://arxiv.org/abs/2510.26829",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "evaluation",
+      "poisoning",
+      "continual-pretraining"
+    ],
+    "note": "Layer of Truth: probing belief shifts under CPT poisoning. [CPT belief-shift probe; cross-cutting eval]"
+  },
+  {
+    "title": "Midtraining Bridges Pretraining and Posttraining Distributions",
+    "authors": "Liu et al.",
+    "year": 2025,
+    "month": 10,
+    "arxiv_id": "2510.14865",
+    "url": "https://arxiv.org/abs/2510.14865",
+    "code_url": "https://github.com/nightingal3/midtraining",
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "distribution-bridging",
+      "mixture",
+      "plasticity"
+    ],
+    "note": "Controlled experiments: midtraining mixes bridge pre- and post-training distributions; timing & weights matter."
+  },
+  {
+    "title": "When Long Helps Short: How Context Length in Supervised Fine-tuning Affects Behavior of Large Language Models",
+    "authors": "Zheng et al.",
+    "year": 2025,
+    "month": 9,
+    "arxiv_id": "2509.18762",
+    "url": "https://arxiv.org/abs/2509.18762",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "SFT",
+      "long-context",
+      "behavior"
+    ],
+    "note": "When long helps short: how SFT context length affects LLM behavior (mid/SFT interplay)."
+  },
+  {
+    "title": "Revisiting Replay and Gradient Alignment for Continual Pre-Training of Large Language Models",
+    "authors": "Abbes et al.",
+    "year": 2025,
+    "month": 8,
+    "arxiv_id": "2508.01908",
+    "url": "https://arxiv.org/abs/2508.01908",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "replay",
+      "continual-pretraining",
+      "gradients"
+    ],
+    "note": "Revisiting replay and gradient alignment for continual pre-training of LLMs."
+  },
+  {
+    "title": "Data Mixing Agent: Learning to Re-weight Domains for Continual Pre-training",
+    "authors": "Yang et al.",
+    "year": 2025,
+    "month": 7,
+    "arxiv_id": "2507.15640",
+    "url": "https://arxiv.org/abs/2507.15640",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "mixture",
+      "continual-pretraining",
+      "agent"
+    ],
+    "note": "Data Mixing Agent: learning to re-weight domains for continual pre-training. [domain reweighting method for CPT]"
+  },
+  {
+    "title": "Mpemba Effect in Large-Language Model Training Dynamics: A Minimal Analysis of the Valley-River model",
+    "authors": "Liu et al.",
+    "year": 2025,
+    "month": 7,
+    "arxiv_id": "2507.04206",
+    "url": "https://arxiv.org/abs/2507.04206",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "LR-schedule",
+      "dynamics",
+      "Mpemba"
+    ],
+    "note": "Mpemba Effect in LLM training dynamics: valley-river model analysis."
+  },
+  {
+    "title": "Through the River: Understanding the Benefit of Schedule-Free Methods for Language Model Training",
+    "authors": "Song et al.",
+    "year": 2025,
+    "month": 7,
+    "arxiv_id": "2507.09846",
+    "url": "https://arxiv.org/abs/2507.09846",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "schedule-free",
+      "LR"
+    ],
+    "note": "Through the River: benefit of schedule-free methods for LM training."
+  },
+  {
+    "title": "Beyond Random Sampling: Efficient Language Model Pretraining via Curriculum Learning",
+    "authors": "Zhang et al.",
+    "year": 2025,
+    "month": 6,
+    "arxiv_id": "2506.11300",
+    "url": "https://arxiv.org/abs/2506.11300",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "curriculum",
+      "pretraining"
+    ],
+    "note": "Beyond Random Sampling: curriculum learning for efficient LM pretraining (relevant to mid curricula)."
+  },
+  {
+    "title": "Emergent Abilities of Large Language Models under Continued Pretraining for Language Adaptation",
+    "authors": "Elhady et al.",
+    "year": 2025,
+    "month": 5,
+    "arxiv_id": "2506.00288",
+    "url": "https://arxiv.org/abs/2506.00288",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "continual-pretraining",
+      "multilingual",
+      "emergent"
+    ],
+    "note": "Emergent abilities under continued pretraining for language adaptation."
+  },
+  {
+    "title": "Improving Continual Pre-training Through Seamless Data Packing",
+    "authors": "Yin et al.",
+    "year": 2025,
+    "month": 5,
+    "arxiv_id": "2505.22018",
+    "url": "https://arxiv.org/abs/2505.22018",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "packing",
+      "continual-pretraining"
+    ],
+    "note": "Improving continual pre-training through seamless data packing."
+  },
+  {
+    "title": "Learning Dynamics in Continual Pre-Training for Large Language Models",
+    "authors": "Wang et al.",
+    "year": 2025,
+    "month": 5,
+    "arxiv_id": "2505.07796",
+    "url": "https://arxiv.org/abs/2505.07796",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "continual-pretraining",
+      "learning-dynamics"
+    ],
+    "note": "Learning dynamics analysis of continual pre-training for LLMs."
+  },
+  {
+    "title": "Continual Pre-Training is (not) What You Need in Domain Adaption",
+    "authors": "Chen et al.",
+    "year": 2025,
+    "month": 4,
+    "arxiv_id": "2504.13603",
+    "url": "https://arxiv.org/abs/2504.13603",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "continual-pretraining",
+      "domain-adapt",
+      "critique"
+    ],
+    "note": "Continual Pre-Training is (not) What You Need in Domain Adaption."
+  },
+  {
+    "title": "Beyond Cosine Decay: On the effectiveness of Infinite Learning Rate Schedule for Continual Pre-training",
+    "authors": "Singh et al.",
+    "year": 2025,
+    "month": 3,
+    "arxiv_id": "2503.02844",
+    "url": "https://arxiv.org/abs/2503.02844",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "LR-schedule",
+      "continual-pretraining"
+    ],
+    "note": "Infinite LR schedule vs cosine for continual pre-training."
+  },
+  {
+    "title": "Continual Pre-training of MoEs: How robust is your router?",
+    "authors": "Thérien et al.",
+    "year": 2025,
+    "month": 3,
+    "arxiv_id": "2503.05029",
+    "url": "https://arxiv.org/abs/2503.05029",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "MoE",
+      "continual-pretraining",
+      "router"
+    ],
+    "note": "Continual pre-training of MoEs: how robust is your router?"
+  },
+  {
+    "title": "How Do LLMs Acquire New Knowledge? A Knowledge Circuits Perspective on Continual Pre-Training",
+    "authors": "Ou et al.",
+    "year": 2025,
+    "month": 2,
+    "arxiv_id": "2502.11196",
+    "url": "https://arxiv.org/abs/2502.11196",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "continual-pretraining",
+      "knowledge",
+      "circuits"
+    ],
+    "note": "Knowledge-circuits view of how LLMs acquire knowledge in continual pre-training."
+  },
+  {
+    "title": "Velocitune: A Velocity-based Dynamic Domain Reweighting Method for Continual Pre-training",
+    "authors": "Luo et al.",
+    "year": 2024,
+    "month": 11,
+    "arxiv_id": "2411.14318",
+    "url": "https://arxiv.org/abs/2411.14318",
+    "code_url": null,
+    "venue": "arXiv",
+    "category": "theory-analysis",
+    "tags": [
+      "mixture",
+      "continual-pretraining",
+      "reweighting"
+    ],
+    "note": "Velocitune: velocity-based dynamic domain reweighting for CPT. [domain reweighting method for CPT]"
   },
   {
     "title": "Understanding Warmup-Stable-Decay Learning Rates: A River Valley Loss Landscape Perspective",
@@ -3081,7 +3178,7 @@
     "url": "https://arxiv.org/abs/2410.05192",
     "code_url": null,
     "venue": "arXiv",
-    "category": "1_theory",
+    "category": "theory-analysis",
     "tags": [
       "WSD",
       "LR-schedule",
@@ -3098,161 +3195,12 @@
     "url": "https://arxiv.org/abs/2408.13359",
     "code_url": null,
     "venue": "arXiv",
-    "category": "4_optimization",
+    "category": "theory-analysis",
     "tags": [
       "Power-scheduler",
       "LR-schedule"
     ],
     "note": "Power Scheduler: batch-size and token-number agnostic LR scheduler."
-  },
-  {
-    "title": "Falcon2-11B Technical Report",
-    "authors": "Malartic et al.",
-    "year": 2024,
-    "month": 7,
-    "arxiv_id": "2407.14885",
-    "url": "https://arxiv.org/abs/2407.14885",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "6_industrial",
-    "tags": [
-      "industrial",
-      "Falcon"
-    ],
-    "note": "Falcon2-11B technical report."
-  },
-  {
-    "title": "Scaling Granite Code Models to 128K Context",
-    "authors": "Stallone et al.",
-    "year": 2024,
-    "month": 7,
-    "arxiv_id": "2407.13739",
-    "url": "https://arxiv.org/abs/2407.13739",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.3_code",
-    "tags": [
-      "code",
-      "long-context"
-    ],
-    "note": "Scaling Granite Code models to 128K context."
-  },
-  {
-    "title": "The Llama 3 Herd of Models",
-    "authors": "Grattafiori et al.",
-    "year": 2024,
-    "month": 7,
-    "arxiv_id": "2407.21783",
-    "url": "https://arxiv.org/abs/2407.21783",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.1_general",
-    "tags": [
-      "annealing",
-      "HQ-data",
-      "long-context",
-      "industrial"
-    ],
-    "note": "Llama 3: industrial annealing with quality upsampling; separate long-context stage."
-  },
-  {
-    "title": "AgentGym: Evolving Large Language Model-based Agents across Diverse Environments",
-    "authors": "Xi et al.",
-    "year": 2024,
-    "month": 6,
-    "arxiv_id": "2406.04151",
-    "url": "https://arxiv.org/abs/2406.04151",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "9_boundary",
-    "tags": [
-      "boundary",
-      "agent",
-      "trajectory"
-    ],
-    "note": "AgentGym: multi-environment trajectories (mainly post-training data source)."
-  },
-  {
-    "title": "LongSkywork: A Training Recipe for Efficiently Extending Context Length in Large Language Models",
-    "authors": "Zhao et al.",
-    "year": 2024,
-    "month": 6,
-    "arxiv_id": "2406.00605",
-    "url": "https://arxiv.org/abs/2406.00605",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.5_longctx",
-    "tags": [
-      "long-context",
-      "recipe"
-    ],
-    "note": "LongSkywork: training recipe for efficiently extending context length."
-  },
-  {
-    "title": "Equipping Transformer with Random-Access Reading for Long-Context Understanding",
-    "authors": "Yang et al.",
-    "year": 2024,
-    "month": 5,
-    "arxiv_id": "2405.13216",
-    "url": "https://arxiv.org/abs/2405.13216",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.5_longctx",
-    "tags": [
-      "long-context",
-      "architecture"
-    ],
-    "note": "Equipping Transformer with random-access reading for long-context understanding."
-  },
-  {
-    "title": "Zamba: A Compact 7B SSM Hybrid Model",
-    "authors": "Glorioso et al.",
-    "year": 2024,
-    "month": 5,
-    "arxiv_id": "2405.16712",
-    "url": "https://arxiv.org/abs/2405.16712",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "6_industrial",
-    "tags": [
-      "SSM",
-      "hybrid"
-    ],
-    "note": "Zamba: compact 7B SSM hybrid model (training recipe includes annealing-like stages)."
-  },
-  {
-    "title": "MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies",
-    "authors": "Hu et al.",
-    "year": 2024,
-    "month": 4,
-    "arxiv_id": "2404.06395",
-    "url": "https://arxiv.org/abs/2404.06395",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.1_general",
-    "tags": [
-      "WSD",
-      "annealing",
-      "HQ-data"
-    ],
-    "note": "MiniCPM: WSD schedule; high-quality data in decay/annealing stage."
-  },
-  {
-    "title": "Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models",
-    "authors": "Chen et al.",
-    "year": 2024,
-    "month": 3,
-    "arxiv_id": "2403.12881",
-    "url": "https://arxiv.org/abs/2403.12881",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "9_boundary",
-    "tags": [
-      "boundary",
-      "SFT",
-      "agent"
-    ],
-    "note": "Agent-FLAN: conversational rewrite of agent data (SFT-scale)."
   },
   {
     "title": "Continual Learning for Large Language Models: A Survey",
@@ -3263,62 +3211,12 @@
     "url": "https://arxiv.org/abs/2402.01364",
     "code_url": null,
     "venue": "arXiv",
-    "category": "1_theory",
+    "category": "theory-analysis",
     "tags": [
       "survey",
       "continual-learning"
     ],
     "note": "Survey of continual learning for LLMs (context for CPT vs mid)."
-  },
-  {
-    "title": "Data Engineering for Scaling Language Models to 128K Context",
-    "authors": "Fu et al.",
-    "year": 2024,
-    "month": 2,
-    "arxiv_id": "2402.10171",
-    "url": "https://arxiv.org/abs/2402.10171",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.5_longctx",
-    "tags": [
-      "long-context",
-      "data-engineering"
-    ],
-    "note": "Data engineering for scaling LMs to 128K context."
-  },
-  {
-    "title": "AgentTuning: Enabling Generalized Agent Abilities for LLMs",
-    "authors": "Zeng et al.",
-    "year": 2023,
-    "month": 10,
-    "arxiv_id": "2310.12823",
-    "url": "https://arxiv.org/abs/2310.12823",
-    "code_url": null,
-    "venue": "ACL Findings 2024",
-    "category": "9_boundary",
-    "tags": [
-      "boundary",
-      "SFT",
-      "agent"
-    ],
-    "note": "AgentTuning: early agent instruction/trajectory tuning (post-training scale)."
-  },
-  {
-    "title": "FireAct: Toward Language Agent Fine-tuning",
-    "authors": "Chen et al.",
-    "year": 2023,
-    "month": 10,
-    "arxiv_id": "2310.05915",
-    "url": "https://arxiv.org/abs/2310.05915",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "9_boundary",
-    "tags": [
-      "boundary",
-      "SFT",
-      "agent"
-    ],
-    "note": "FireAct: early agent trajectory fine-tuning (SFT-scale, not mid)."
   },
   {
     "title": "Optimal Linear Decay Learning Rate Schedules and Further Refinements",
@@ -3329,29 +3227,12 @@
     "url": "https://arxiv.org/abs/2310.07831",
     "code_url": null,
     "venue": "arXiv",
-    "category": "4_optimization",
+    "category": "theory-analysis",
     "tags": [
       "LR-schedule",
       "linear-decay"
     ],
     "note": "Optimal linear decay learning rate schedules and further refinements."
-  },
-  {
-    "title": "Effective Long-Context Scaling of Foundation Models",
-    "authors": "Xiong et al.",
-    "year": 2023,
-    "month": 9,
-    "arxiv_id": "2309.16039",
-    "url": "https://arxiv.org/abs/2309.16039",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.5_longctx",
-    "tags": [
-      "long-context",
-      "scaling",
-      "continual-pretraining"
-    ],
-    "note": "Effective long-context scaling of foundation models (Meta)."
   },
   {
     "title": "Continual Pre-Training of Large Language Models: How to (re)warm your model?",
@@ -3362,47 +3243,13 @@
     "url": "https://arxiv.org/abs/2308.04014",
     "code_url": null,
     "venue": "arXiv",
-    "category": "1_theory",
+    "category": "theory-analysis",
     "tags": [
       "continual-pretraining",
       "rewarming",
       "LR-schedule"
     ],
     "note": "Classic: how to (re)warm continual pre-training of LLMs."
-  },
-  {
-    "title": "YaRN: Efficient Context Window Extension of Large Language Models",
-    "authors": "Peng et al.",
-    "year": 2023,
-    "month": 8,
-    "arxiv_id": "2309.00071",
-    "url": "https://arxiv.org/abs/2309.00071",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "2.5_longctx",
-    "tags": [
-      "YaRN",
-      "RoPE",
-      "context-extension"
-    ],
-    "note": "YaRN: efficient context window extension; widely used in mid/long-context stages."
-  },
-  {
-    "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
-    "authors": "Schick et al.",
-    "year": 2023,
-    "month": 2,
-    "arxiv_id": "2302.04761",
-    "url": "https://arxiv.org/abs/2302.04761",
-    "code_url": null,
-    "venue": "arXiv",
-    "category": "9_boundary",
-    "tags": [
-      "boundary",
-      "tool-use",
-      "historical"
-    ],
-    "note": "Toolformer: early self-supervised API-call insertion (pre mid-training era)."
   },
   {
     "title": "Don't Stop Pretraining: Adapt Language Models to Domains and Tasks",
@@ -3413,7 +3260,7 @@
     "url": "https://arxiv.org/abs/2004.10964",
     "code_url": null,
     "venue": "ACL 2020",
-    "category": "1_theory",
+    "category": "theory-analysis",
     "tags": [
       "DAPT",
       "TAPT",
