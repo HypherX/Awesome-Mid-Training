@@ -11,7 +11,7 @@ Thanks for helping keep **Awesome Mid-Training for LLMs** up to date.
 - Mid-training theory, datasets, open recipes, industrial reports with a substantive mid stage, or mid-specific evaluation protocols
 - Objective is mainly NTP / CE (masking OK); token budget ≫ typical SFT and ≪ full pretraining
 
-**Exclude** (add to `rejected.md` with a one-line reason instead):
+**Exclude**:
 
 - Non-LLM “mid-training” (CV, VLA/robotics, audio-only, tabular-only, etc.)
 - Pure SFT / preference tuning / online RL with no mid component (incl. FireAct/AgentTuning-scale agent SFT, env-RL warmups named “mid”)
@@ -39,7 +39,6 @@ Thanks for helping keep **Awesome Mid-Training for LLMs** up to date.
 ```
 
 3. Choose **one** primary `category` (see table below). Put cross-cutting facets in `tags`.
-4. Add the id to `seen_arxiv_ids.txt` (also add reviewed-but-rejected ids there).
 5. Regenerate the README:
 
 ```bash

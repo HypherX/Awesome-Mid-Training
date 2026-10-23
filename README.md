@@ -8,7 +8,7 @@
 
 > **Mid-training** = stage between large-scale general pretraining and post-training (SFT / preference / online RL); mainly an NTP/CE objective (masking allowed); HQ / domain / synthetic data, usually with replay; token budget much larger than typical SFT and smaller than full pretraining; intent = distribution bridging / capability injection / post-training warmup, **not** final alignment.
 
-Includes self-described mid-training, annealing/cooldown-stage data studies, continued pretraining that functions as mid (incl. agentic CPT, math/code CPT), long-context extension stages, theory/analysis, datasets & recipes, and industrial reports with a substantive mid section. Classification is by **target capability** (plus surveys and theory/analysis). Works that do not meet the mid-training definition (env-RL warmups, FireAct/AgentTuning-scale SFT, etc.) are listed in [`rejected.md`](rejected.md).
+Includes self-described mid-training, annealing/cooldown-stage data studies, continued pretraining that functions as mid (incl. agentic CPT, math/code CPT), long-context extension stages, theory/analysis, datasets & recipes, and industrial reports with a substantive mid section. Classification is by **target capability** (plus surveys and theory/analysis).
 
 **Last updated:** 2026-10-23 (Asia/Shanghai) · updated weekly
 
@@ -287,7 +287,7 @@ Each paper has **one** primary capability section; tags capture cross-cutting da
 
 ## Contributing
 
-See [`CONTRIBUTING.md`](CONTRIBUTING.md). Edit `papers.json`, then run `python scripts/build_readme.py`. Reviewed-but-rejected ids go in `seen_arxiv_ids.txt` and `rejected.md`.
+See [`CONTRIBUTING.md`](CONTRIBUTING.md). Edit `papers.json`, then run `python scripts/build_readme.py`.
 
 ## License
 

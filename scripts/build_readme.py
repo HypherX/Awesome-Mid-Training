@@ -144,9 +144,7 @@ def build_readme(papers: list[dict], updated: str) -> str:
         "continued pretraining that functions as mid (incl. agentic CPT, math/code CPT), "
         "long-context extension stages, theory/analysis, datasets & recipes, and industrial "
         "reports with a substantive mid section. Classification is by **target capability** "
-        "(plus surveys and theory/analysis). Works that do not meet the mid-training "
-        "definition (env-RL warmups, FireAct/AgentTuning-scale SFT, etc.) are listed in "
-        "[`rejected.md`](rejected.md)."
+        "(plus surveys and theory/analysis)."
     )
     lines.append("")
     lines.append(f"**Last updated:** {updated} (Asia/Shanghai) · updated weekly")
@@ -207,8 +205,7 @@ def build_readme(papers: list[dict], updated: str) -> str:
     lines.append("")
     lines.append(
         "See [`CONTRIBUTING.md`](CONTRIBUTING.md). Edit `papers.json`, then run "
-        "`python scripts/build_readme.py`. Reviewed-but-rejected ids go in "
-        "`seen_arxiv_ids.txt` and `rejected.md`."
+        "`python scripts/build_readme.py`."
     )
     lines.append("")
     lines.append("## License")

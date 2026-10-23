@@ -1,4 +1,7 @@
-__pycache__/
 *.pyc
 .DS_Store
 .venv/
+__pycache__/
+rejected.md
+seen_arxiv_ids.txt
+weekly_inbox.md
